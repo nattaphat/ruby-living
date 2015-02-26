@@ -1,0 +1,2538 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head profile="http://gmpg.org/xfn/11">
+	<title>ThinkOfLiving.COM — แบ่งปันความรู้เรื่องบ้านและคอนโด</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <script type="text/javascript">
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-26950327-1', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+        window.fbAsyncInit = function() {
+            FB.Event.subscribe('edge.create', function(targetUrl) {
+                ga('send', 'social', 'facebook', 'like', targetUrl);
+            });
+        }
+    </script>
+
+    <link rel="pingback" href="http://thinkofliving.com/xmlrpc.php" />
+
+	<link rel="stylesheet" type="text/css" href="/wp-content/themes/thinkoflivingnews/style.1424805716.css"
+          media="screen, projection" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://thinkofliving.com/wp-content/themes/tribune/ie6.css" /><![endif]-->
+	<!--[if IE 7 ]><link rel="stylesheet" type="text/css" href="http://thinkofliving.com/wp-content/themes/tribune/ie7.css" /><![endif]-->
+
+	
+    <meta property="fb:app_id" content="209713072406755" />
+
+	<meta name="description" content="แบ่งปันความรู้เรื่องบ้านและคอนโด" />
+<meta name="robots" content="index, follow" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://thinkofliving.com/" />
+<link rel="next" href="http://thinkofliving.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="ThinkOfLiving.COM - แบ่งปันความรู้เรื่องบ้านและคอนโด" />
+<meta property="og:description" content="Think of Living.com แบ่งปันความรู้เรื่องบ้านและคอนโด" />
+<meta property="og:url" content="http://thinkofliving.com/" />
+<meta property="og:site_name" content="ThinkOfLiving.COM" />
+<meta property="fb:admins" content="718935866" />
+<meta property="og:image" content="http://thinkofliving.com/wp-content/uploads/2013/05/SquareLogo-2.jpg" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://thinkofliving.com/", "potentialAction": { "@type": "SearchAction", "target": "http://thinkofliving.com/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="ThinkOfLiving.COM &raquo; Feed" href="http://thinkofliving.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ThinkOfLiving.COM &raquo; Comments Feed" href="http://thinkofliving.com/comments/feed/" />
+<link rel='stylesheet' id='bwp-rc-css'  href='http://thinkofliving.com/wp-content/plugins/bwp-recent-comments/css/bwp-recent-comments.css?ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='upme_google_fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upme_font_awesome-css'  href='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/css/font-awesome.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upme_css-css'  href='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/css/upme.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upme_style-css'  href='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/styles/default.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upme_responsive-css'  href='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/css/upme-responsive.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://thinkofliving.com/wp-includes/css/dashicons.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://thinkofliving.com/wp-includes/js/thickbox/thickbox.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpz-shortcodes-css'  href='http://thinkofliving.com/wp-content/themes/tribune/functions/wpzoom/assets/css/shortcodes.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-custom-css'  href='http://thinkofliving.com/wp-content/themes/tribune/custom.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flex-slider-style-css'  href='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/css/flexslider.css?ver=6.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wzslider-css'  href='http://thinkofliving.com/wp-content/themes/tribune/functions/wpzoom/assets/css/wzslider.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://thinkofliving.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DavesWordPressLiveSearchConfig = {"resultsDirection":"down","showThumbs":"true","showExcerpt":"false","showMoreResultsLink":"true","minCharsToSearch":"2","xOffset":"0","yOffset":"0","blogURL":"http:\/\/thinkofliving.com","ajaxURL":"http:\/\/thinkofliving.com\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%= resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"daves-wordpress-live-search_result <%= liClass %> '\">\n        <% if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) { %>\n                <img src=\"<%= searchResult.attachment_thumbnail %>\" class=\"post_thumb\" \/>\n        <% } %>\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\"><%= searchResult.post_title %><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%= searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <p class=\"excerpt clearfix\"><%= searchResult.post_excerpt %><\/p>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%= searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%= searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%=  resultsSearchTerm %>\"><%= DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/plugins/daves-wordpress-live-search/js/daves-wordpress-live-search.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/plugins/daves-wordpress-live-search/js/excanvas.compiled.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/plugins/daves-wordpress-live-search/js/spinners.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/functions/wpzoom/assets/js/shortcodes.js?ver=1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/js/upme-fitvids.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UPMETmce = {"InsertUPMEShortcode":"Insert UPME Shortcode","LoginRegistrationForms":"Login \/ Registration Forms","FrontRegistrationForm":"Front-end Registration Form","RegFormCustomRedirect":"Registration Form with Custom Redirect","RegFormCaptcha":"Registration Form with Captcha","RegFormNoCaptcha":"Registration Form without Captcha","FrontLoginForm":"Front-end Login Form","SidebarLoginWidget":"Sidebar Login Widget (use in text widget)","LoginFormCustomRedirect":"Login Form with Custom Redirect","LogoutButton":"Logout Button","LogoutButtonCustomRedirect":"Logout Button with Custom Redirect","SingleProfile":"Single Profile","LoggedUserProfile":"Logged in User Profile","LoggedUserProfileUserID":"Logged in User Profile showing User ID","PostAuthorProfile":"Post Author Profile","SpecificUserProfile":"Specific User Profile","MultipleProfilesMemberList":"Multiple Profiles \/ Member List","GroupSpecificUsers":"Group of Specific Users","AllUsers":"All Users","AllUsersCompactView":"All Users in Compact View","AllUsersCompactViewHalfWidth":"All Users in Compact View, Half Width","UsersBasedUserRole":"Users Based on User Role","AdministratorUsersOnly":"Administrator Users Only","AllUsersOrderedDisplayName":"All Users Ordered by Display Name","AllUsersOrderedPostCount":"All Users Ordered by Post Count","AllUsersOrderedRegistrationDate":"All Users Ordered by Registration Date","AllUsersUserID":"All Users showing User ID","SearchProfile":"Search Profiles","SearchCustomFieldFilters":"Search with Custom Field Filters","PrivateContentLoginRequired":"Private Content (Login Required)","ShortcodeOptionExamples":"Shortcode Option Examples","HideUserStatistics":"Hide User Statistics","HideUserSocialBar":"Hide User Social Bar","HalfWidthProfileView":"1\/2 Width Profile View","CompactViewNoExtraFields":"Compact View (No extra fields)","CustomizedProfileFields":"Customized Profile Fields","ShowUserIDProfiles":"Show User ID on Profiles"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/admin/js/tinymce_language_strings.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/js/init.js?ver=4.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thinkofliving.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thinkofliving.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1" />
+<link rel='shortlink' href='http://wp.me/1YZB1' />
+<!-- WPZOOM Theme / Framework -->
+<meta name="generator" content="Think of Living News 5.1.2" />
+<meta name="generator" content="WPZOOM Framework 1.3.9" />
+</head>
+
+<body class="home blog" >
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=209713072406755";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+	<div id="wrapper">
+		<div id="inner-wrapper">
+			<div id="header">
+				<div id="inner">
+                    <div id="header-widget">
+                         	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.prinsiri.com/th/prinn/index.php/home' target='_blank' rel='nofollow'>
+				<img title='Prinsiri Top Banner'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/THINGOFLIVING728X90.gif' 
+					alt='Prinsiri Top Banner'
+					width='728' 
+					height='90'
+					track-view='6a62194b-be20-49a0-97b2-3b4acbe582e7' 
+					track-img-click='6a62194b-be20-49a0-97b2-3b4acbe582e7'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/THINGOFLIVING728X90.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='2' style='display:none;'>
+								
+			<span track-flash-click='7adb9183-95d6-4231-afe6-39796503574e' track-view='7adb9183-95d6-4231-afe6-39796503574e' media-source='http://thinkofliving.com/wp-content/uploads/2015/02/728x90_happyfree-PPP1.swf'>
+				<object width='728' height='90'>
+					<param name='movie' value='http://thinkofliving.com/wp-content/uploads/2015/02/728x90_happyfree-PPP1.swf'>
+					<param name='wmode' value='opaque' />
+					<embed 
+							type='application/x-shockwave-flash' 
+							src='http://thinkofliving.com/wp-content/uploads/2015/02/728x90_happyfree-PPP1.swf' 
+							width='728' 
+							height='90'>
+					</embed>
+				</object>			
+			</span>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://www.pf.co.th/promotion/MetroLuxe_Promotion_FEB_2015.php?utm_source=thinkofliving&amp;utm_medium=banner&amp;utm_content=728x90&amp;utm_campaign=Feb15_MetroLuxe' target='_blank' rel='nofollow'>
+				<img title='PF Top Banner'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/728x90.jpg' 
+					alt='PF Top Banner'
+					width='728' 
+					height='90'
+					track-view='c06bd9fe-98c1-4ee5-a961-b442452778c1' 
+					track-img-click='c06bd9fe-98c1-4ee5-a961-b442452778c1'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/728x90.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='4' style='display:none;'>
+								
+			<a href='http://boffice.scasset.com/Register/RegisterForm_BB.asp?utm_source=http://thinkofliving.com/&amp;utm_medium=banner&amp;utm_campaign=BB-think' target='_blank' rel='nofollow'>
+				<img title='SC Top Banner1'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Banner_bb_728x90px.gif' 
+					alt='SC Top Banner1'
+					width='728' 
+					height='90'
+					track-view='ae099dc9-4408-4a2c-b1c4-bcbc2976cc12' 
+					track-img-click='ae099dc9-4408-4a2c-b1c4-bcbc2976cc12'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Banner_bb_728x90px.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='5' style='display:none;'>
+								
+			<a href='http://gusto.qh.co.th/' target='_blank' rel='nofollow'>
+				<img title='Gusto Top'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/WPR5-SW26-2.gif' 
+					alt='Gusto Top'
+					width='728' 
+					height='90'
+					track-view='70d451fe-a6d4-4766-bf0e-d177789a97b5' 
+					track-img-click='70d451fe-a6d4-4766-bf0e-d177789a97b5'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/WPR5-SW26-2.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='6' style='display:none;'>
+								
+			<a href='http://www.goldenlandresidence.co.th/register/goldentownsuksawat-phutthabucha/' target='_blank' rel='nofollow'>
+				<img title='Goldenland Top Banner'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Top_Left_Thinkofliving728x90_GTSWP.gif' 
+					alt='Goldenland Top Banner'
+					width='728' 
+					height='90'
+					track-view='8ae9b23e-9d37-4517-8032-640858bf7c60' 
+					track-img-click='8ae9b23e-9d37-4517-8032-640858bf7c60'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Top_Left_Thinkofliving728x90_GTSWP.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='7' style='display:none;'>
+								
+			<a href='http://boffice.scasset.com/Register/RegisterForm_GBB.asp?utm_source=http://thinkofliving.com/&amp;utm_medium=banner&amp;utm_campaign=THINK-GBB' target='_blank' rel='nofollow'>
+				<img title='SC Top Banner2'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Banner_GBB_728x90px.gif' 
+					alt='SC Top Banner2'
+					width='728' 
+					height='90'
+					track-view='a90d6896-47be-4f0e-ab4e-1631e2e7cfad' 
+					track-img-click='a90d6896-47be-4f0e-ab4e-1631e2e7cfad'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Banner_GBB_728x90px.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='8' style='display:none;'>
+								
+			<a href='http://www.mde.co.th/mladprao' target='_blank' rel='nofollow'>
+				<img title='Major Top Banner 1(2015)'
+					src='http://thinkofliving.com/wp-content/uploads/2014/12/728x90px.gif' 
+					alt='Major Top Banner 1(2015)'
+					width='728' 
+					height='90'
+					track-view='8ff930b2-a8e8-489f-992f-e4db67e23875' 
+					track-img-click='8ff930b2-a8e8-489f-992f-e4db67e23875'
+					media-source='http://thinkofliving.com/wp-content/uploads/2014/12/728x90px.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='1919b0c6-cb25-43ba-86f6-5f29cb77f93d' rand-item-index='9' style='display:none;'>
+								
+			<a href='http://www.mde.co.th/th/project_detail/17/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%20%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3' target='_blank' rel='nofollow'>
+				<img title='Major Top Banner 2(2015)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/MJJ-Grand-Open-Online-Banner_728-x-90.gif' 
+					alt='Major Top Banner 2(2015)'
+					width='728' 
+					height='90'
+					track-view='fba45951-358e-46a1-bcc9-0810c85869fc' 
+					track-img-click='fba45951-358e-46a1-bcc9-0810c85869fc'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/MJJ-Grand-Open-Online-Banner_728-x-90.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.trapezobangkok.com/' target='_blank' rel='nofollow'>
+				<img title='Trapezo Top R.'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/Banner-DD-property1.jpg' 
+					alt='Trapezo Top R.'
+					width='500' 
+					height='90'
+					track-view='845e4654-7e63-443d-915f-bbcc4d7bb696' 
+					track-img-click='845e4654-7e63-443d-915f-bbcc4d7bb696'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/Banner-DD-property1.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='2' style='display:none;'>
+								<div track-text-click='458c36e5-993c-4098-90c2-51c3fa94461e' track-view='458c36e5-993c-4098-90c2-51c3fa94461e' media-source=''><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=12454870&PluID=0&w=500&h=90&ord=[timestamp]"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=12454870&Page=&PluID=0&Pos=2049389351" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=12454870&Page=&PluID=0&Pos=2049389351" border=0 width=500 height=90></a>
+</noscript></div>
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://www.tymerama5.com/' target='_blank' rel='nofollow'>
+				<img title='Tyme Top Right'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Banner-Tyme-for-Think_Feb2015.gif' 
+					alt='Tyme Top Right'
+					width='500' 
+					height='90'
+					track-view='33828166-a73d-4a71-bfca-5265f26d336e' 
+					track-img-click='33828166-a73d-4a71-bfca-5265f26d336e'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Banner-Tyme-for-Think_Feb2015.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='4' style='display:none;'>
+								
+			<a href='http://www.stylishresidences.com/th/ChapterOneMidtownLadprao24.html' target='_blank' rel='nofollow'>
+				<img title='ChapterOneMidtown (Top R.)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/tol.gif' 
+					alt='ChapterOneMidtown (Top R.)'
+					width='500' 
+					height='90'
+					track-view='9807e467-cc8b-412b-ae19-007675aa8ddc' 
+					track-img-click='9807e467-cc8b-412b-ae19-007675aa8ddc'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/tol.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='5' style='display:none;'>
+								
+			<a href='http://www.pruksa.com/pre-sale/145-Pruksaville-55-2-Wongwaen-Ramindra' target='_blank' rel='nofollow'>
+				<img title='Pruksa Ville Top Right'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/Banner-TOL.gif' 
+					alt='Pruksa Ville Top Right'
+					width='500' 
+					height='90'
+					track-view='842e0cef-acd4-40e0-8d3c-2e341692f0c6' 
+					track-img-click='842e0cef-acd4-40e0-8d3c-2e341692f0c6'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/Banner-TOL.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='6' style='display:none;'>
+								
+			<a href='http://www.siamnuwat.com/wishsignature/' target='_blank' rel='nofollow'>
+				<img title='Siamnuwat Top Right'
+					src='http://thinkofliving.com/wp-content/uploads/2014/12/ok4.gif' 
+					alt='Siamnuwat Top Right'
+					width='500' 
+					height='90'
+					track-view='413865a2-110b-4683-9fe1-2090b04f5389' 
+					track-img-click='413865a2-110b-4683-9fe1-2090b04f5389'
+					media-source='http://thinkofliving.com/wp-content/uploads/2014/12/ok4.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='7' style='display:none;'>
+								
+			<a href='http://www.mayfairplace64.com/' target='_blank' rel='nofollow'>
+				<img title='Mayfairplace64 Top R.'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/web-baner.jpg' 
+					alt='Mayfairplace64 Top R.'
+					width='500' 
+					height='90'
+					track-view='fb2b9d55-6979-48f3-94a1-b25fe00146e0' 
+					track-img-click='fb2b9d55-6979-48f3-94a1-b25fe00146e0'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/web-baner.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5edc0789-b152-4882-89f6-612f047728b5' rand-item-index='8' style='display:none;'>
+								
+			<a href='http://www.lpn.co.th/BannerStat/adclick.php?lpn=2396' target='_blank' rel='nofollow'>
+				<img title='LPN Top Right'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/500x90_thinkofliving.gif' 
+					alt='LPN Top Right'
+					width='500' 
+					height='90'
+					track-view='e62afe97-c465-4398-8753-091886f7ec97' 
+					track-img-click='e62afe97-c465-4398-8753-091886f7ec97'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/500x90_thinkofliving.gif'
+					/>
+			</a>
+			
+							</span>                    </div>
+
+                    <!-- Main Menu -->
+                    <div id="menu" class="dropdown">
+                        <div id="logo">
+                            <a href="http://thinkofliving.com" title="แบ่งปันความรู้เรื่องบ้านและคอนโด">
+                                <img src="/wp-content/themes/thinkoflivingnews/images/tol.png" height="78px" alt="ThinkOfLiving.COM" />
+                            </a><div class="clear"></div>
+
+                        </div><!-- / #logo -->
+
+                        <ul id="menu-5-5-2014-may" class=""><li id="menu-item-153287" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-153287"><a title="HOME" href="http://thinkofliving.com/"><span class='icon-home'></span><br/>หน้าหลัก</a></li>
+<li id="menu-item-153612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153612"><a title="Store" href="http://store.thinkofliving.com/thailand/@15z/project"><span class='icon-map' style='color:red;'></span><br/><span style='color:red;'>STORE</span></a></li>
+<li id="menu-item-153288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153288"><a title="คอนโดมิเนียม" href="http://thinkofliving.com/category/news/condominium/"><span class='icon-office'></span><br/>คอนโดมิเนียม</a></li>
+<li id="menu-item-153289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153289"><a title="บ้าน" href="http://thinkofliving.com/category/news/house/"><span class='icon-home2'></span><br/>บ้าน</a></li>
+<li id="menu-item-153290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153290"><a title="ทาวน์โฮม" href="http://thinkofliving.com/category/news/%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%80%e0%b8%ae%e0%b8%b2%e0%b8%aa%e0%b9%8c/"><span class='icon-home3'></span><br/>ทาวน์โฮม</a></li>
+<li id="menu-item-153291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153291"><a title="ตากอากาศ" href="http://thinkofliving.com/category/news/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8/"><span class='icon-image'></span><br/>ตากอากาศ</a></li>
+<li id="menu-item-153292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153292"><a title="WEBBOARD" href="/forum"><span class='icon-bubbles2'></span><br/>WEBBOARD</a></li>
+</ul>                    </div> <!-- /#menu -->
+				</div><!-- /#inner -->
+
+				<div class="clear"></div>
+
+				
+				<div class="clear"></div>
+
+			</div><!-- /#header -->
+
+<div id="full-content" class="left">
+    <div id="full-main">
+        <div id="searchMenuContainer">
+            <form method="get" id="searchform" action="http://thinkofliving.com/">
+    <img src="/wp-content/themes/thinkoflivingnews/images/searchicon.jpg" width="32px" height="32px" img="" scale="0"
+         style="float: left;vertical-align: baseline;display: inline;">
+	<input type="text"
+           onblur="if (this.value == '') {this.value = '';}"
+           onfocus="if (this.value == '') {this.value = '';}"
+           value="" name="s" id="s" />
+    <input type="submit" id="searchsubmit" value="ค้นหาโครงการ" />
+</form>
+<div class="clear"></div>
+<div class='slide-cover'><div class='roll-out-ads' roll-out-height='254' link-id='679ff769-cab9-49e0-81b5-2491b7254308'
+                        style='height: 0; width: 600px; display: none;'>
+                        <span class='icon-close roll-out-close'></span>
+								
+			<a href='http://www.pausecondo.com/' target='_blank' rel='nofollow'>
+				<img title='Pause'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/anigif2.gif' 
+					alt='Pause'
+					width='600' 
+					height='250'
+					track-view='679ff769-cab9-49e0-81b5-2491b7254308' 
+					track-img-click='679ff769-cab9-49e0-81b5-2491b7254308'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/anigif2.gif'
+					/>
+			</a>
+			
+							</div></div>        </div>
+        <div class="clear"></div><div id="featured">
+    <div class="main_feat"><div class="thumb"><a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/" title="คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Dolce_Cover-540x302.jpg" alt="คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข" class="Thumbnail thumbnail large " width="480" /></a></div>
+ 			<h3 class="post-title">
+                <span class="post-comments "><a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/#respond" title="Comment on คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข">0</a></span>
+                <span>
+                    <a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/" rel="bookmark" title="Permanent Link to คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข" target="_blank">คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข</a>
+                </span>
+
+            </h3>
+            <div class="clear"></div>
+			<div class="date">34 mins ago</div>
+
+ 			<div class="content">
+ 				<div class="entry">
+					<p>รายการ คิด.เรื่อง.อยู่ ตอนที่ 120 &#8211; สวัสดีครับ วันนี้ Mr.Oe และ Mr.Boom พามาดูคอนโด Low Rise 7 ชั้น [&hellip;]</p>
+
+					<div class="meta">
+						<a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/" rel="bookmark" title="Permanent Link to คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข" class="nextActions" target="_blank">
+                            อ่านต่อที่นี่ &rarr;</a>
+					</div>
+				</div><!-- /.entry -->
+            </div><!-- /.content -->		</div><!-- .main_feat -->
+		<div class="headings">
+			<ul>
+                <li><div class="post-thumb"><a href="http://thinkofliving.com/2015/02/26/aq-estate-%e0%b9%81%e0%b8%96%e0%b8%a5%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%9b%e0%b8%b5-2558-%e0%b8%9c%e0%b8%b8%e0%b8%94-9-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/" title="AQ Estate แถลงแผนปี 2558 ผุด 9 โครงการใหม่ มูลค่า 8,000 ล้านบาท"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/AQ-Estate-6-540x360.jpg" alt="AQ Estate แถลงแผนปี 2558 ผุด 9 โครงการใหม่ มูลค่า 8,000 ล้านบาท" class="Thumbnail thumbnail large " width="345" /></a></div>
+                        <h3 class="post-title">                                <span class="post-comments "><a href="http://thinkofliving.com/2015/02/26/aq-estate-%e0%b9%81%e0%b8%96%e0%b8%a5%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%9b%e0%b8%b5-2558-%e0%b8%9c%e0%b8%b8%e0%b8%94-9-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/#respond" title="Comment on AQ Estate แถลงแผนปี 2558 ผุด 9 โครงการใหม่ มูลค่า 8,000 ล้านบาท">0</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/26/aq-estate-%e0%b9%81%e0%b8%96%e0%b8%a5%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%9b%e0%b8%b5-2558-%e0%b8%9c%e0%b8%b8%e0%b8%94-9-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/" rel="bookmark" title="Permanent Link to AQ Estate แถลงแผนปี 2558 ผุด 9 โครงการใหม่ มูลค่า 8,000 ล้านบาท" target="_blank">AQ Estate แถลงแผนปี 2558 ผุด 9 โครงการใหม่ มูลค่า 8,000 ล้านบาท</a>
+                            </span>
+                        </h3>
+			            <div class="date">8 mins ago                        </div>
+                        <div class="content">
+                            <div class="entry"><p>ยงยุทธ ชัยพรหมประสิทธิ์ ประธานกรรมการและประธานเจ้าหน้าที่บริหาร บริษัท เอคิว เอสเตท จำกัด (มหาชน) กล่าวว่า หลังจากที่ล้างหนี้สะสมได้ 100% แล้ว ในปีนี้ AQ Estate เดินหน้าเปิดตัวโครงการเต็มที่ [&hellip;]</p>
+                                <div class="meta">
+                                    <a href="http://thinkofliving.com/2015/02/26/aq-estate-%e0%b9%81%e0%b8%96%e0%b8%a5%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%9b%e0%b8%b5-2558-%e0%b8%9c%e0%b8%b8%e0%b8%94-9-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/" rel="bookmark" title="Permanent Link to AQ Estate แถลงแผนปี 2558 ผุด 9 โครงการใหม่ มูลค่า 8,000 ล้านบาท" class="nextActions">
+                                        อ่านต่อที่นี่ &rarr;</a>
+                                </div>                            </div><!-- /.entry -->
+                        </div><!-- /.content -->				</li>
+			</ul>
+		</div>
+
+	
+	<div class="clear"></div>
+
+</div> <!-- /#featured -->
+<div class="clear"></div>        <div class="clear"></div>
+        <div id="main-top" class="main-row">
+        <div class="lite-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/news/fair/" target="_blank" title="ข่าวล่าสุด">
+                    ข่าวล่าสุด                </a>
+            </h2>
+            <ul class="stories">                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/25/nimit-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%a7%e0%b8%99-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-high-rise-%e0%b8%88%e0%b8%b2%e0%b8%81-pace-development-preview/#respond" title="Comment on Nimit หลังสวน คอนโด High Rise จาก Pace Development [PREVIEW]">0</a></span><div class="thumb"><a href="http://thinkofliving.com/2015/02/25/nimit-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%a7%e0%b8%99-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-high-rise-%e0%b8%88%e0%b8%b2%e0%b8%81-pace-development-preview/" title="Nimit หลังสวน คอนโด High Rise จาก Pace Development [PREVIEW]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/21534-540x304.jpg" alt="Nimit หลังสวน คอนโด High Rise จาก Pace Development [PREVIEW]" class="Thumbnail thumbnail large " width="150" /></a></div>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/25/nimit-%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%a7%e0%b8%99-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-high-rise-%e0%b8%88%e0%b8%b2%e0%b8%81-pace-development-preview/" rel="bookmark" title="Permanent Link to Nimit หลังสวน คอนโด High Rise จาก Pace Development [PREVIEW]" target="_blank">Nimit หลังสวน คอนโด High Rise จาก Pace Development [PREVIEW]</a>
+                            </span>
+                            <div class="date">February 25, 2015, 15:22</div>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/25/golden-land-%e0%b8%97%e0%b8%b3%e0%b8%81%e0%b8%b3%e0%b9%84%e0%b8%a3%e0%b8%95%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%9b%e0%b8%b5-57/#respond" title="Comment on Golden Land ทำกำไรตามคาดปี 57 กว่า 305 ล้านบาท">0</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/25/golden-land-%e0%b8%97%e0%b8%b3%e0%b8%81%e0%b8%b3%e0%b9%84%e0%b8%a3%e0%b8%95%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%9b%e0%b8%b5-57/" rel="bookmark" title="Permanent Link to Golden Land ทำกำไรตามคาดปี 57 กว่า 305 ล้านบาท" target="_blank">Golden Land ทำกำไรตามคาดปี 57 กว่า 305 ล้านบาท</a>
+                            </span>
+                            <div class="date">February 25, 2015, 11:47</div>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/25/ap-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%87%e0%b8%b2%e0%b8%99-where-the-memories-begin-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%ae%e0%b8%a1/#respond" title="Comment on AP จัดงาน Where the Memories Begin เปิดทาวน์โฮมใกล้รถไฟฟ้า">0</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/25/ap-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%87%e0%b8%b2%e0%b8%99-where-the-memories-begin-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%ae%e0%b8%a1/" rel="bookmark" title="Permanent Link to AP จัดงาน Where the Memories Begin เปิดทาวน์โฮมใกล้รถไฟฟ้า" target="_blank">AP จัดงาน Where the Memories Begin เปิดทาวน์โฮมใกล้รถไฟฟ้า</a>
+                            </span>
+                            <div class="date">February 25, 2015, 08:00</div>
+                        </li>            </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/news/fair/" class="nextActions"
+               target="_blank">ข่าวทั้งหมด (664) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->
+            <div class='ad-container' style='float:left; width: 400px;'>
+                <div class='flexslider'>
+                    <ul class='slides'>
+                         	<li><span class='slider-ads'>
+								<div class='ad-project'  track-view-force='e4a369b9-08fd-4bb8-9860-3351851b57b5'  style='width: 400px;'>
+                    <div class='thumb'>
+                    <a href='http://thinkofliving.com/condo/excel-bearing-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-low-rise-8-%e0%b8%8a%e0%b8%b1%e0%b9%89%e0%b8%99/' title='The Excel Bearing'  onclick="TrackClick('e4a369b9-08fd-4bb8-9860-3351851b57b5')"  target='_blank'>
+                        <img src='http://thinkofliving.com/wp-content/uploads/2014/03/banner400x250pix-thinkofliv.jpg' alt='The Excel Bearing' class='Thumbnail thumbnail large ' width='400' height='250' draggable='false'>
+                    </a>
+                </div>
+                    <div class='meta'>
+                        <div class='title'>
+                            <a href='http://thinkofliving.com/condo/excel-bearing-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-low-rise-8-%e0%b8%8a%e0%b8%b1%e0%b9%89%e0%b8%99/' target='_blank'  onclick="TrackClick('e4a369b9-08fd-4bb8-9860-3351851b57b5')"  title='The Excel Bearing' rel='nofollow'>
+                                <h3>The Excel Bearing</h3>
+                            </a>
+                        </div><!--title-->
+                            <div class='official-site'>
+                                    <a href='http://www.excelcondo.com/'  onclick="TrackClick('e4a369b9-08fd-4bb8-9860-3351851b57b5')"  target='_blank' title='The Excel Bearing' rel='nofollow'>
+                                        <h4>Official Website</h4>
+                                    </a>
+                                </div>
+                        <div class='clear'></div>
+                        <div class='description'>ห้องหลุดดาวน์ เริ่ม 1.59 ล้าน ใกล้ BTS/ พร้อมเข้าอยู่/ กู้ได้ 100% 
+โทร 092-272-1730, 092-272-1731</div><!--description-->
+                    </div><!--meta-->
+                </div><!--ad-project-->
+							</span></li> 	<li><span class='slider-ads'>
+								<div class='ad-project'  style='width: 400px;'>
+                    <div class="thumb"><a href="http://thinkofliving.com/house/%e0%b9%80%e0%b8%a8%e0%b8%a3%e0%b8%a9%e0%b8%90%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b8%b4-%e0%b8%88%e0%b8%a3%e0%b8%b1%e0%b8%8d%e0%b8%af-%e0%b8%9b%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b9%89/" title="เศรษฐสิริ จรัญฯ-ปิ่นเกล้า"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/preview-setthasiri-jarun13-6-540x360.jpg" alt="เศรษฐสิริ จรัญฯ-ปิ่นเกล้า" class="Thumbnail thumbnail large " width="400" height="250" /></a></div>
+                    <div class='meta'>
+                        <div class='title'>
+                            <a href='http://thinkofliving.com/house/%e0%b9%80%e0%b8%a8%e0%b8%a3%e0%b8%a9%e0%b8%90%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b8%b4-%e0%b8%88%e0%b8%a3%e0%b8%b1%e0%b8%8d%e0%b8%af-%e0%b8%9b%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b9%89/' target='_blank'  title='เศรษฐสิริ จรัญฯ-ปิ่นเกล้า' rel='nofollow'>
+                                <h3>เศรษฐสิริ จรัญฯ-ปิ่นเกล้า</h3>
+                            </a>
+                        </div><!--title-->
+                            <div class='official-site'>
+                                    <a href='http://www.sansiri.com/'  target='_blank' title='เศรษฐสิริ จรัญฯ-ปิ่นเกล้า' rel='nofollow'>
+                                        <h4>Official Website</h4>
+                                    </a>
+                                </div>
+                        <div class='clear'></div>
+                        <div class='description'> ถนนจรัญสนิทวงศ์ โดย Sansiri (แสนสิริ) ราคาเริ่มต้นที่ 9.00 ล้านบาท</div><!--description-->
+                    </div><!--meta-->
+                </div><!--ad-project-->
+							</span></li> 	<li><span class='slider-ads'>
+								<div class='ad-project'  style='width: 400px;'>
+                    <div class="thumb"><a href="http://thinkofliving.com/condo/blu-%e0%b8%8a%e0%b8%b0%e0%b8%ad%e0%b8%b3-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%ab%e0%b8%b4%e0%b8%99-2/" title="blu ชะอำ-หัวหิน"><img src="http://thinkofliving.com/wp-content/uploads/2014/10/BLU-Perspective-Ex01-540x283.jpg" alt="blu ชะอำ-หัวหิน" class="Thumbnail thumbnail large " width="400" height="250" /></a></div>
+                    <div class='meta'>
+                        <div class='title'>
+                            <a href='http://thinkofliving.com/condo/blu-%e0%b8%8a%e0%b8%b0%e0%b8%ad%e0%b8%b3-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%ab%e0%b8%b4%e0%b8%99-2/' target='_blank'  title='blu ชะอำ-หัวหิน' rel='nofollow'>
+                                <h3>blu ชะอำ-หัวหิน</h3>
+                            </a>
+                        </div><!--title-->
+                            <div class='official-site'>
+                                    <a href='http://www.bluhuahin.com/'  target='_blank' title='blu ชะอำ-หัวหิน' rel='nofollow'>
+                                        <h4>Official Website</h4>
+                                    </a>
+                                </div>
+                        <div class='clear'></div>
+                        <div class='description'>คอนโดบนทำเล ภาคใต้และตะวันตก ถนนเพชรเกษม โดย ร่วมอิสสระ ราคาเริ่มต้นที่ 1.89 ล้านบาท</div><!--description-->
+                    </div><!--meta-->
+                </div><!--ad-project-->
+							</span></li> 	<li><span class='slider-ads'>
+								<div class='ad-project'  style='width: 400px;'>
+                    <div class="thumb"><a href="http://thinkofliving.com/condo/plus-2-%e0%b8%a3%e0%b8%b1%e0%b8%95%e0%b8%99%e0%b8%b2%e0%b8%98%e0%b8%b4%e0%b9%80%e0%b8%9a%e0%b8%a8%e0%b8%a3%e0%b9%8c/" title="A PLUS 2 @รัตนาธิเบศร์"><img src="http://thinkofliving.com/wp-content/uploads/2014/12/6-aplus2-render1-540x303.jpg" alt="A PLUS 2 @รัตนาธิเบศร์" class="Thumbnail thumbnail large " width="400" height="250" /></a></div>
+                    <div class='meta'>
+                        <div class='title'>
+                            <a href='http://thinkofliving.com/condo/plus-2-%e0%b8%a3%e0%b8%b1%e0%b8%95%e0%b8%99%e0%b8%b2%e0%b8%98%e0%b8%b4%e0%b9%80%e0%b8%9a%e0%b8%a8%e0%b8%a3%e0%b9%8c/' target='_blank'  title='A PLUS 2 @รัตนาธิเบศร์' rel='nofollow'>
+                                <h3>A PLUS 2 @รัตนาธิเบศร์</h3>
+                            </a>
+                        </div><!--title-->
+                            <div class='official-site'>
+                                    <a href='http://www.apluscondo.com/aplus2/'  target='_blank' title='A PLUS 2 @รัตนาธิเบศร์' rel='nofollow'>
+                                        <h4>Official Website</h4>
+                                    </a>
+                                </div>
+                        <div class='clear'></div>
+                        <div class='description'>คอนโดบนทำเล งามวงศ์วาน - แจ้งวัฒนะ ถนนรัตนาธิเบศร์ โดย A Plus Real Estate ราคาเริ่มต้นที่ 0.99 ล้านบาท</div><!--description-->
+                    </div><!--meta-->
+                </div><!--ad-project-->
+							</span></li> 	<li><span class='slider-ads'>
+								<div class='ad-project'  style='width: 400px;'>
+                    <div class="thumb"><a href="http://thinkofliving.com/house/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b8%a3%e0%b8%b4%e0%b8%9b%e0%b8%b8%e0%b8%a3%e0%b8%b5/" title="บ้านภูริปุรี"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/baan-puripuri-44-540x360.jpg" alt="บ้านภูริปุรี" class="Thumbnail thumbnail large " width="400" height="250" /></a></div>
+                    <div class='meta'>
+                        <div class='title'>
+                            <a href='http://thinkofliving.com/house/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b8%a3%e0%b8%b4%e0%b8%9b%e0%b8%b8%e0%b8%a3%e0%b8%b5/' target='_blank'  title='บ้านภูริปุรี' rel='nofollow'>
+                                <h3>บ้านภูริปุรี</h3>
+                            </a>
+                        </div><!--title-->
+                            <div class='official-site'>
+                                    <a href='https://sites.google.com/site/baanpuripuri/home'  target='_blank' title='บ้านภูริปุรี' rel='nofollow'>
+                                        <h4>Official Website</h4>
+                                    </a>
+                                </div>
+                        <div class='clear'></div>
+                        <div class='description'>บ้านบนทำเล ลาดพร้าว โชคชัย 4 ราคาเริ่มต้นที่ 6.45 ล้านบาท</div><!--description-->
+                    </div><!--meta-->
+                </div><!--ad-project-->
+							</span></li>
+                    </ul><!-- sliders -->
+                </div><!-- flexslider -->
+            </div><!-- ad-container0 -->        </div><!-- #main-top -->
+        <div class="clear"></div>
+        <div class="main-row">
+            <span class="main-left-banner"> 	<span class='rand-single-ads' rand-group='f028571d-275d-4bfe-b6f9-dc8868d342ef' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.brightwongwianyai.com' target='_blank' rel='nofollow'>
+				<img title='Bright BR2-1L(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/bannerwwthink200x300.jpg' 
+					alt='Bright BR2-1L(M)'
+					width='200' 
+					height='300'
+					track-view='cddfc50d-0e6d-47b5-9147-bfe6a8e60a45' 
+					track-img-click='cddfc50d-0e6d-47b5-9147-bfe6a8e60a45'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/bannerwwthink200x300.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='f028571d-275d-4bfe-b6f9-dc8868d342ef' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://www.h2-condo.com/Landing/' target='_blank' rel='nofollow'>
+				<img title='H2 BR2-1L(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/19-1.png' 
+					alt='H2 BR2-1L(M)'
+					width='200' 
+					height='300'
+					track-view='eec0653b-03f4-422b-8ae5-23797ebf96a6' 
+					track-img-click='eec0653b-03f4-422b-8ae5-23797ebf96a6'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/19-1.png'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='f028571d-275d-4bfe-b6f9-dc8868d342ef' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://www.kesratchada.com/index.php' target='_blank' rel='nofollow'>
+				<img title='Kes BR2-1L(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/banner_kes_tol_final.jpg' 
+					alt='Kes BR2-1L(M)'
+					width='200' 
+					height='300'
+					track-view='46066b69-c2d3-48ca-b897-8568bbf9ef37' 
+					track-img-click='46066b69-c2d3-48ca-b897-8568bbf9ef37'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/banner_kes_tol_final.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5711ba41-aee1-48bf-8753-e3c5bf935f57' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.scasset.com/Condominium/Centric-Tiwanon-Station' target='_blank' rel='nofollow'>
+				<img title='SC 2-2L(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/CTTS_200x300.jpg' 
+					alt='SC 2-2L(M)'
+					width='200' 
+					height='300'
+					track-view='cfdc9eb5-4ee4-41a0-aeec-d5da15289d59' 
+					track-img-click='cfdc9eb5-4ee4-41a0-aeec-d5da15289d59'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/CTTS_200x300.jpg'
+					/>
+			</a>
+			
+							</span>            </span><!-- #main-left-banner-top -->
+            <span id="main-right-top">
+        <div class="single-column-post-list" style="width: 300px">
+            <h2>
+                <a href="http://thinkofliving.com/category/reviews/condo-review/" target="_blank" title="รีวิวคอนโด">
+                    รีวิวคอนโด                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/25/m-%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a7-review/" title="M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/รูปเปิด_Mลาดพร้าว2-540x360.jpg" alt="M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]" class="Thumbnail thumbnail large " width="300px" height="180" /></a></div>
+                <h5>
+                    <span class="post-comments "><a href="http://thinkofliving.com/2015/02/25/m-%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a7-review/#comments" title="Comment on M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]">1</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/25/m-%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a7-review/" rel="bookmark" title="Permanent Link to M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]" target="_blank">M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>            <div class="comments">
+                <ul class="latest-comments">
+                                    <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>hellxingi                    </span><span class='comment-text'>ทำเลนี้กับราคา 160k ได้คะแนนเยอะไปมั้ยครับ 8.75 ถ้าซัก 130k... </span>                </li>                </ul>
+                <!-- latest-comments -->
+            </div><!-- comments -->
+            <div class="clear"></div>
+                <ul class="stories">                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/reviews/condo-review/" class="nextActions"
+               target="_blank">รีวิวคอนโดทั้งหมด (690) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->
+        <div class="single-column-post-list" style="width: 300px">
+            <h2>
+                <a href="http://thinkofliving.com/category/reviews/house-review/" target="_blank" title="รีวิวบ้าน">
+                    รีวิวบ้าน                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/25/the-gallery-house-layer/" title="The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/the-gallery-layer-prado-1-540x360.jpg" alt="The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]" class="Thumbnail thumbnail large " width="300px" height="180" /></a></div>
+                <h5>
+                    <span class="post-comments "><a href="http://thinkofliving.com/2015/02/25/the-gallery-house-layer/#comments" title="Comment on The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]">1</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/25/the-gallery-house-layer/" rel="bookmark" title="Permanent Link to The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]" target="_blank">The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>            <div class="comments">
+                <ul class="latest-comments">
+                                    <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>SNC                    </span><span class='comment-text'>แบบบ้านคุ้นๆ ไม่แน่ใจว่าใช่หมู่บ้านที่คุณพจน์ อานนท์ อยู่หรือเปล่า </span>                </li>                </ul>
+                <!-- latest-comments -->
+            </div><!-- comments -->
+            <div class="clear"></div>
+                <ul class="stories">                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/reviews/house-review/" class="nextActions"
+               target="_blank">รีวิวบ้านทั้งหมด (256) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->            </span><!-- #main-right-top -->
+        </div><!-- main-row -->
+        <div class="clear"></div>
+
+        <div id="main-middle" class="main-row">
+        <div class="single-column-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/news/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/" target="_blank" title="Preview โครงการใหม่">
+                    Preview โครงการใหม่                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/19/hyde-%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%b8%e0%b8%a1%e0%b8%a7%e0%b8%b4%e0%b8%97-11-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-high-rise-%e0%b8%88%e0%b8%b2%e0%b8%81-grande-asset-preview/" title="HYDE สุขุมวิท 11 คอนโด High Rise จาก Grande Asset [PREVIEW]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/hyde-suk-11-7-540x348.jpg" alt="HYDE สุขุมวิท 11 คอนโด High Rise จาก Grande Asset [PREVIEW]" class="Thumbnail thumbnail large " width="400px" height="240" /></a></div>
+                <h5>
+                    <span class="post-comments "><a href="http://thinkofliving.com/2015/02/19/hyde-%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%b8%e0%b8%a1%e0%b8%a7%e0%b8%b4%e0%b8%97-11-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-high-rise-%e0%b8%88%e0%b8%b2%e0%b8%81-grande-asset-preview/#comments" title="Comment on HYDE สุขุมวิท 11 คอนโด High Rise จาก Grande Asset [PREVIEW]">2</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/19/hyde-%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%b8%e0%b8%a1%e0%b8%a7%e0%b8%b4%e0%b8%97-11-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-high-rise-%e0%b8%88%e0%b8%b2%e0%b8%81-grande-asset-preview/" rel="bookmark" title="Permanent Link to HYDE สุขุมวิท 11 คอนโด High Rise จาก Grande Asset [PREVIEW]" target="_blank">HYDE สุขุมวิท 11 คอนโด High Rise จาก Grande Asset [PREVIEW]</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>            <div class="comments">
+                <ul class="latest-comments">
+                                    <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>tigerjiap                    </span><span class='comment-text'>เมื่อวานไปงาน Think of Living Condo Expo... </span>                </li>                <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>jo                    </span><span class='comment-text'>ครั้งนี้ HYDE ทำห้องเล็กลงมากเลยไม่รู้ว่า%ที่จอดรถจะลดลงขนาดไหน ขอให้เหมาะสมกับluxury class(เกือบ super... </span>                </li>                </ul>
+                <!-- latest-comments -->
+            </div><!-- comments -->
+            <div class="clear"></div>
+                <ul class="stories">                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/17/saladaeng-one/#comments" title="Comment on Saladaeng One ศาลาแดงวัน คอนโดสุดหรูในซอย 1 ใกล้ MRT ลุมพินี โดย SC ASSET [PREVIEW]">1</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/17/saladaeng-one/" rel="bookmark" title="Permanent Link to Saladaeng One ศาลาแดงวัน คอนโดสุดหรูในซอย 1 ใกล้ MRT ลุมพินี โดย SC ASSET [PREVIEW]" target="_blank">Saladaeng One ศาลาแดงวัน คอนโดสุดหรูในซอย 1 ใกล้ MRT ลุมพินี โดย SC ASSET [PREVIEW]</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/14/noble-gable-%e0%b8%a7%e0%b8%b1%e0%b8%8a%e0%b8%a3%e0%b8%9e%e0%b8%a5-preview/#comments" title="Comment on Noble Gable วัชรพล บ้านเดี่ยวโครงการใหม่ล่าสุดจาก Noble Development [PREVIEW]">25</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/14/noble-gable-%e0%b8%a7%e0%b8%b1%e0%b8%8a%e0%b8%a3%e0%b8%9e%e0%b8%a5-preview/" rel="bookmark" title="Permanent Link to Noble Gable วัชรพล บ้านเดี่ยวโครงการใหม่ล่าสุดจาก Noble Development [PREVIEW]" target="_blank">Noble Gable วัชรพล บ้านเดี่ยวโครงการใหม่ล่าสุดจาก Noble Development [PREVIEW]</a>
+                            </span>
+                        </li>                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/news/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/" class="nextActions"
+               target="_blank">ชมโครงการใหม่ ทั้งหมด (558) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->
+        <div class="single-column-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/point-of-view/" target="_blank" title="Point of View &amp; Living Idea">
+                    Point of View &amp; Living Idea                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/23/living-idea-ep26-%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8/" title="Living Idea ตอนที่ 26 &#8211; ฟังก์ชั่น Living Area บ้านตากอากาศ"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Youtube_Cover_Living26-540x302.jpg" alt="Living Idea ตอนที่ 26 &#8211; ฟังก์ชั่น Living Area บ้านตากอากาศ" class="Thumbnail thumbnail large " width="400px" height="240" /></a></div>
+                <h5>
+                    <span class="post-comments "><a href="http://thinkofliving.com/2015/02/23/living-idea-ep26-%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8/#respond" title="Comment on Living Idea ตอนที่ 26 &#8211; ฟังก์ชั่น Living Area บ้านตากอากาศ">0</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/23/living-idea-ep26-%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8/" rel="bookmark" title="Permanent Link to Living Idea ตอนที่ 26 &#8211; ฟังก์ชั่น Living Area บ้านตากอากาศ" target="_blank">Living Idea ตอนที่ 26 &#8211; ฟังก์ชั่น Living Area บ้านตากอากาศ</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>
+                <ul class="stories">                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/16/living-idea-25-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%a1%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99/#respond" title="Comment on รายการ Living Idea ตอนที่ 25 &#8211; การต่อเติมเพื่อเพิ่มพื้นที่ใช้สอย">0</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/16/living-idea-25-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%a1%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99/" rel="bookmark" title="Permanent Link to รายการ Living Idea ตอนที่ 25 &#8211; การต่อเติมเพื่อเพิ่มพื้นที่ใช้สอย" target="_blank">รายการ Living Idea ตอนที่ 25 &#8211; การต่อเติมเพื่อเพิ่มพื้นที่ใช้สอย</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/09/living-idea-ep-24-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b9%82%e0%b8%a2%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84/#respond" title="Comment on รายการ Living Idea ตอนที่ 24 &#8211; การเชื่อมโยงพื้นที่ครัว">0</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/09/living-idea-ep-24-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b9%82%e0%b8%a2%e0%b8%87%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84/" rel="bookmark" title="Permanent Link to รายการ Living Idea ตอนที่ 24 &#8211; การเชื่อมโยงพื้นที่ครัว" target="_blank">รายการ Living Idea ตอนที่ 24 &#8211; การเชื่อมโยงพื้นที่ครัว</a>
+                            </span>
+                        </li>                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/point-of-view/" class="nextActions"
+               target="_blank">ชมทั้งหมด (37) &rarr;</a>
+            </div>        </div><!-- lite-post-list--> 	<span class='rand-single-ads' rand-group='b9233bef-94c7-4d41-b812-e6a929488e64' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.thepresidentcondo.com/' target='_blank' rel='nofollow'>
+				<img title='The President C BR3-1M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2014/11/Ad-750-x-200-px-01.jpg' 
+					alt='The President C BR3-1M(M)'
+					width='750' 
+					height='200'
+					track-view='b77bb8b8-945b-463a-9568-c41c14b603c9' 
+					track-img-click='b77bb8b8-945b-463a-9568-c41c14b603c9'
+					media-source='http://thinkofliving.com/wp-content/uploads/2014/11/Ad-750-x-200-px-01.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='b9233bef-94c7-4d41-b812-e6a929488e64' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://www.aqestate.com/register/index.php?website=tolmain' target='_blank' rel='nofollow'>
+				<img title='AQ BR3-1M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/750x200.jpg' 
+					alt='AQ BR3-1M(M)'
+					width='750' 
+					height='200'
+					track-view='e049a71c-d148-47a2-b4b0-9ace1d1a3640' 
+					track-img-click='e049a71c-d148-47a2-b4b0-9ace1d1a3640'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/750x200.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='b9233bef-94c7-4d41-b812-e6a929488e64' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://www.scasset.com/House/Boulevard-Tuscany-Cha-Am-Hua-Hin?utm_source=http://thinkofliving.com/&amp;utm_medium=banner&amp;utm_campaign=CHAAMTHINK' target='_blank' rel='nofollow'>
+				<img title='SC BR3-1M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Cha-am-banner-web_750x200.jpg' 
+					alt='SC BR3-1M(M)'
+					width='750' 
+					height='200'
+					track-view='ef6d85f3-5f9b-4af7-8412-0f88ea216942' 
+					track-img-click='ef6d85f3-5f9b-4af7-8412-0f88ea216942'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Cha-am-banner-web_750x200.jpg'
+					/>
+			</a>
+			
+							</span><div id='slider'>            <h2>
+                <a href="http://thinkofliving.com/category/video-2/%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88/" target="_blank"
+                   title="คิด.เรื่อง.อยู่ &#8211; พาชมโครงการกับ Mr. โอ๋และ Mr. บูม ทุกสัปดาห์">คิด.เรื่อง.อยู่ &#8211; พาชมโครงการกับ Mr. โอ๋และ Mr. บูม ทุกสัปดาห์</a>
+            </h2>
+                    <div class="tabbed_slider">
+                <div class="slider_container single-column-post-list">
+                    <ul class="slides">
+                                                    <li class="slide"><div class="cover"><a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/" title="คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Dolce_Cover-310x173.jpg" alt="คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข" class="Thumbnail thumbnail featured " width="620" height="435" /></a></div>                                <span class="post-comments "><a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/#respond" title="Comment on คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข">0</a></span>
+                                <h3>
+                                    <a href="http://thinkofliving.com/2015/02/26/dolce-udomsuk-video/" title="คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข" target="_blank">คิด.เรื่อง.อยู่ Ep.120 &#8211; รีวิวคอนโด Dolce อุดมสุข</a>
+                                </h3>
+                                <div class="date">34 mins ago</div>
+                                <div class="content">
+                                    <div class="entry"><p>รายการ คิด.เรื่อง.อยู่ ตอนที่ 120 &#8211; สวัสดีครับ วันนี้ Mr.Oe และ Mr.Boom พามาดูคอนโด Low Rise 7 ชั้น [&hellip;]</p>
+</div><!-- /.entry -->
+                                </div><!-- /.content -->
+                            </li>
+                    </ul><!-- flexslider-->
+                </div> <!-- slider_container -->
+                <div class="thumb_scroller">
+                    <div class="viewport">
+                        <div class="overview">
+                            <ul class="pagination">        <li class='fadei'>
+            <a href='http://thinkofliving.com/2015/02/22/the-balanz-video/' rel='nofollow' class='clearfix' target='_blank'><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Dolce_Cover-400x224.jpg" alt="คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา" class="Thumbnail thumbnail medium " width="200" height="125" />                <img src='/wp-content/themes/thinkoflivingnews/images/play-icon.png'
+                    width='64' height='64' class='play-icon'>
+                <div class='info'>
+                    <span class="post-comments ">1</span>คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา</div>
+            </a>
+            <div class='clear'></div>
+        </li>        <li class='fadei'>
+            <a href='http://thinkofliving.com/2015/02/15/h-cape-biz-sector-video/' rel='nofollow' class='clearfix' target='_blank'><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Youtube_Cover_ep118-400x224.jpg" alt="คิด.เรื่อง.อยู่ Ep.118 &#8211; รีวิวโฮมออฟฟิศ H-Cape Biz Sector อ่อนนุช" class="Thumbnail thumbnail medium " width="200" height="125" />                <img src='/wp-content/themes/thinkoflivingnews/images/play-icon.png'
+                    width='64' height='64' class='play-icon'>
+                <div class='info'>
+                    <span class="post-comments ">0</span>คิด.เรื่อง.อยู่ Ep.118 &#8211; รีวิวโฮมออฟฟิศ H-Cape Biz Sector อ่อนนุช</div>
+            </a>
+            <div class='clear'></div>
+        </li>        <li class='fadei'>
+            <a href='http://thinkofliving.com/2015/02/08/the-oscar-%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%a1-58-video/' rel='nofollow' class='clearfix' target='_blank'><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Youtube_Cover_ep117-400x224.jpg" alt="คิด.เรื่อง.อยู่ Ep.117 &#8211; รีวิวคอนโด The Oscar เพชรเกษม 58" class="Thumbnail thumbnail medium " width="200" height="125" />                <img src='/wp-content/themes/thinkoflivingnews/images/play-icon.png'
+                    width='64' height='64' class='play-icon'>
+                <div class='info'>
+                    <span class="post-comments ">0</span>คิด.เรื่อง.อยู่ Ep.117 &#8211; รีวิวคอนโด The Oscar เพชรเกษม 58</div>
+            </a>
+            <div class='clear'></div>
+        </li>                            </ul>                                <div class="continue">
+                                    <a href="http://thinkofliving.com/category/video-2/%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88/" class="nextActions" target="_blank">ชมรายการย้อนหลัง (120) &rarr;</a>
+                                </div>                        </div>
+                    </div><!-- viewport -->
+                </div><!-- thumb_scroller -->
+                <div class="clear">&nbsp;</div>
+            </div><!-- tabbed_slider --></div><!-- /#slider -->  	<span class='rand-single-ads' rand-group='f50fd373-1ca6-4a79-9c6a-fa4ba5082743' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.sena.co.th/campaign_condo/index.html' target='_blank' rel='nofollow'>
+				<img title='SENA BR3-2M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/thinkofliving_750x200.jpg' 
+					alt='SENA BR3-2M(M)'
+					width='750' 
+					height='200'
+					track-view='fdd0a58a-2f6a-47e4-9270-848ccc99c7be' 
+					track-img-click='fdd0a58a-2f6a-47e4-9270-848ccc99c7be'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/thinkofliving_750x200.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='f50fd373-1ca6-4a79-9c6a-fa4ba5082743' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://www.interlux13.com/' target='_blank' rel='nofollow'>
+				<img title='Interlux13 BR3-2M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/IL-web-banner-TOL-CNY.jpg' 
+					alt='Interlux13 BR3-2M(M)'
+					width='750' 
+					height='200'
+					track-view='1313dbe3-81e3-4a19-8676-3383898f7b48' 
+					track-img-click='1313dbe3-81e3-4a19-8676-3383898f7b48'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/IL-web-banner-TOL-CNY.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='f50fd373-1ca6-4a79-9c6a-fa4ba5082743' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://chewathai.com/residence.php?id=2' target='_blank' rel='nofollow'>
+				<img title='Chewathai BR3-2M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/23-2ram-750x200-px.jpg' 
+					alt='Chewathai BR3-2M(M)'
+					width='750' 
+					height='200'
+					track-view='8aadf7dc-21ea-479b-9952-4b2acedee06b' 
+					track-img-click='8aadf7dc-21ea-479b-9952-4b2acedee06b'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/23-2ram-750x200-px.jpg'
+					/>
+			</a>
+			
+							</span>
+        <div class="single-column-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/reviews/condo-review/" target="_blank" title="รีวิวคอนโด">
+                    รีวิวคอนโด                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/23/the-knight-condo-%e0%b9%83%e0%b8%99%e0%b8%8b%e0%b8%ad%e0%b8%a2%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%87/" title="The Knight I และ The Knight II พาไปชมตึกเสร็จในซอยแบริ่ง จาก Origin Property [รีวิวฉบับที่ 773]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-17-at-2.39.54-PM1.png" alt="The Knight I และ The Knight II พาไปชมตึกเสร็จในซอยแบริ่ง จาก Origin Property [รีวิวฉบับที่ 773]" class="Thumbnail thumbnail large " width="400px" height="240" /></a></div>
+                <h5>
+                    <span class="post-comments "><a href="http://thinkofliving.com/2015/02/23/the-knight-condo-%e0%b9%83%e0%b8%99%e0%b8%8b%e0%b8%ad%e0%b8%a2%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%87/#respond" title="Comment on The Knight I และ The Knight II พาไปชมตึกเสร็จในซอยแบริ่ง จาก Origin Property [รีวิวฉบับที่ 773]">0</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/23/the-knight-condo-%e0%b9%83%e0%b8%99%e0%b8%8b%e0%b8%ad%e0%b8%a2%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%87/" rel="bookmark" title="Permanent Link to The Knight I และ The Knight II พาไปชมตึกเสร็จในซอยแบริ่ง จาก Origin Property [รีวิวฉบับที่ 773]" target="_blank">The Knight I และ The Knight II พาไปชมตึกเสร็จในซอยแบริ่ง จาก Origin Property [รีวิวฉบับที่ 773]</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>
+                <ul class="stories">                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/reviews/condo-review/" class="nextActions"
+               target="_blank">รีวิวคอนโดทั้งหมด (689) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->
+        <div class="single-column-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/reviews/house-review/" target="_blank" title="รีวิวบ้าน">
+                    รีวิวบ้าน                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/22/the-balanz-video/" title="คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/Dolce_Cover-540x302.jpg" alt="คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา" class="Thumbnail thumbnail large " width="400px" height="240" /></a></div>
+                <h5>
+                    <span class="post-comments "><a href="http://thinkofliving.com/2015/02/22/the-balanz-video/#comments" title="Comment on คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา">1</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/22/the-balanz-video/" rel="bookmark" title="Permanent Link to คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา" target="_blank">คิด.เรื่อง.อยู่ Ep.119 &#8211; รีวิวบ้านเดี่ยว The Balanz ศาลายา</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>            <div class="comments">
+                <ul class="latest-comments">
+                                    <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>mew                    </span><span class='comment-text'>มองภาพรวมเป็นโครงการที่น่าอยู่น่ะ การออกแบบก้อสวยใช้พื้นที่คุ้มดี เหมาะกับครอบครัวที่ไม่ต้องการความแออัด ไว้จะเข้าไปที่โครงการแล้วจะมารีวิวอีกทีค่ะ </span>                </li>                </ul>
+                <!-- latest-comments -->
+            </div><!-- comments -->
+            <div class="clear"></div>
+                <ul class="stories">                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/reviews/house-review/" class="nextActions"
+               target="_blank">รีวิวบ้านทั้งหมด (255) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->			<div class="textwidget"><div class="clear" style="margin:0;"></div></div>
+		 	<span class='rand-single-ads' rand-group='b8eb6ca7-796b-4fae-ab6e-157fd93fb5bf' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://goo.gl/L8D4UN' target='_blank' rel='nofollow'>
+				<img title='Noble BR4-1M(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Mid-Page-750x200.jpg' 
+					alt='Noble BR4-1M(M)'
+					width='750' 
+					height='200'
+					track-view='578cbdf4-8094-4b3b-b40f-2ff75b3c2eef' 
+					track-img-click='578cbdf4-8094-4b3b-b40f-2ff75b3c2eef'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Mid-Page-750x200.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='b8eb6ca7-796b-4fae-ab6e-157fd93fb5bf' rand-item-index='2' style='display:none;'>
+								<div track-text-click='42fa24dc-fa79-43c1-ba4c-e15709eedc73' track-view='42fa24dc-fa79-43c1-ba4c-e15709eedc73' media-source=''><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://unitus.synergy-e.com/www/delivery/ajs.php':'http://unitus.synergy-e.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=8691");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><noscript><a href='http://unitus.synergy-e.com/www/delivery/ck.php?n=ae8493e5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://unitus.synergy-e.com/www/delivery/avw.php?zoneid=8691&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae8493e5' border='0' alt='' /></a></noscript></div>
+							</span> 	<span class='rand-single-ads' rand-group='b8eb6ca7-796b-4fae-ab6e-157fd93fb5bf' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://bit.ly/C12thinkofliving' target='_blank' rel='nofollow'>
+				<img title='Fragrant BR4M(M) C12'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/Banner-FG-TOL-750x200.jpg' 
+					alt='Fragrant BR4M(M) C12'
+					width='750' 
+					height='200'
+					track-view='7bc0c8bf-940b-422e-ad3f-c9221dcdf7f1' 
+					track-img-click='7bc0c8bf-940b-422e-ad3f-c9221dcdf7f1'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/Banner-FG-TOL-750x200.jpg'
+					/>
+			</a>
+			
+							</span>
+        <div class="lite-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/news/%e0%b8%9a%e0%b8%97%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99/" target="_blank" title="บทความน่าอ่าน">
+                    บทความน่าอ่าน                </a>
+            </h2>
+            <ul class="stories">                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/21/design-focus-good-night-sleep-tight-living-inspire/#respond" title="Comment on Design Focus &gt;&gt; Good Night, Sleep Tight – Living Inspire">0</a></span><div class="thumb"><a href="http://thinkofliving.com/2015/02/21/design-focus-good-night-sleep-tight-living-inspire/" title="Design Focus &gt;&gt; Good Night, Sleep Tight – Living Inspire"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/06-540x374.jpg" alt="Design Focus &gt;&gt; Good Night, Sleep Tight – Living Inspire" class="Thumbnail thumbnail large " width="150" /></a></div>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/21/design-focus-good-night-sleep-tight-living-inspire/" rel="bookmark" title="Permanent Link to Design Focus >> Good Night, Sleep Tight – Living Inspire" target="_blank">Design Focus >> Good Night, Sleep Tight – Living Inspire</a>
+                            </span>
+                            <div class="date">February 21, 2015, 14:00</div>
+                        </li>                        <li>
+                            <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/16/reserve-%e0%b8%9e%e0%b8%8d%e0%b8%b2%e0%b9%84%e0%b8%97-%e0%b8%97%e0%b8%b3%e0%b9%80%e0%b8%a5/#comments" title="Comment on The Reserve พญาไท พาชมทำเลคอนโดใหม่ ใกล้ BTS พญาไท จาก พฤกษา เรียลเอสเตท">4</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/16/reserve-%e0%b8%9e%e0%b8%8d%e0%b8%b2%e0%b9%84%e0%b8%97-%e0%b8%97%e0%b8%b3%e0%b9%80%e0%b8%a5/" rel="bookmark" title="Permanent Link to The Reserve พญาไท พาชมทำเลคอนโดใหม่ ใกล้ BTS พญาไท จาก พฤกษา เรียลเอสเตท" target="_blank">The Reserve พญาไท พาชมทำเลคอนโดใหม่ ใกล้ BTS พญาไท จาก พฤกษา เรียลเอสเตท</a>
+                            </span>
+                            <div class="date">February 16, 2015, 08:00</div>
+                        </li>                        <li>
+                            <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/11/ashton-%e0%b8%88%e0%b8%b8%e0%b8%ac%e0%b8%b2-%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1-%e0%b8%97%e0%b8%b3%e0%b9%80%e0%b8%a5/#comments" title="Comment on Ashton จุฬา &#8211; สีลม พาชมทำเลคอนโดใหม่ ใกล้ MRT สามย่าน จาก Ananda Development">11</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/11/ashton-%e0%b8%88%e0%b8%b8%e0%b8%ac%e0%b8%b2-%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1-%e0%b8%97%e0%b8%b3%e0%b9%80%e0%b8%a5/" rel="bookmark" title="Permanent Link to Ashton จุฬา &#8211; สีลม พาชมทำเลคอนโดใหม่ ใกล้ MRT สามย่าน จาก Ananda Development" target="_blank">Ashton จุฬา &#8211; สีลม พาชมทำเลคอนโดใหม่ ใกล้ MRT สามย่าน จาก Ananda Development</a>
+                            </span>
+                            <div class="date">February 11, 2015, 17:00</div>
+                        </li>            </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/news/%e0%b8%9a%e0%b8%97%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99/" class="nextActions"
+               target="_blank">บทความน่าอ่าน ทั้งหมด (95) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->
+        <div class="lite-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/column/%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c/" target="_blank" title="สัมภาษณ์ผู้บริหาร">
+                    สัมภาษณ์ผู้บริหาร                </a>
+            </h2>
+            <ul class="stories">                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/19/%e0%b8%9a%e0%b8%97%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-fragrant-property/#respond" title="Comment on บทสัมภาษณ์ คุณเฑียร จึงวิรุฬโชตินันท์ แห่ง Fragrant Property">0</a></span><div class="thumb"><a href="http://thinkofliving.com/2015/02/19/%e0%b8%9a%e0%b8%97%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-fragrant-property/" title="บทสัมภาษณ์ คุณเฑียร จึงวิรุฬโชตินันท์ แห่ง Fragrant Property"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/IMG_9503-540x360.jpg" alt="บทสัมภาษณ์ คุณเฑียร จึงวิรุฬโชตินันท์ แห่ง Fragrant Property" class="Thumbnail thumbnail large " width="150" /></a></div>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/19/%e0%b8%9a%e0%b8%97%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-fragrant-property/" rel="bookmark" title="Permanent Link to บทสัมภาษณ์ คุณเฑียร จึงวิรุฬโชตินันท์ แห่ง Fragrant Property" target="_blank">บทสัมภาษณ์ คุณเฑียร จึงวิรุฬโชตินันท์ แห่ง Fragrant Property</a>
+                            </span>
+                            <div class="date">February 19, 2015, 08:00</div>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/12/interview-%e0%b8%ad%e0%b8%99%e0%b8%b8%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c-%e0%b8%ad%e0%b8%b1%e0%b8%a8%e0%b8%a7%e0%b9%82%e0%b8%a0%e0%b8%84%e0%b8%b4%e0%b8%99/#comments" title="Comment on สัมภาษณ์ คุณอนุพงษ์ อัศวโภคิน ประธานเจ้าหน้าที่บริหาร AP">1</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/12/interview-%e0%b8%ad%e0%b8%99%e0%b8%b8%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c-%e0%b8%ad%e0%b8%b1%e0%b8%a8%e0%b8%a7%e0%b9%82%e0%b8%a0%e0%b8%84%e0%b8%b4%e0%b8%99/" rel="bookmark" title="Permanent Link to สัมภาษณ์ คุณอนุพงษ์ อัศวโภคิน ประธานเจ้าหน้าที่บริหาร AP" target="_blank">สัมภาษณ์ คุณอนุพงษ์ อัศวโภคิน ประธานเจ้าหน้าที่บริหาร AP</a>
+                            </span>
+                            <div class="date">February 12, 2015, 12:46</div>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/02/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-noble-gable-interview/#comments" title="Comment on เปิดโครงการ Noble Gable พร้อมบทสัมภาษณ์ &#8220;ธีรพล วรนิธิพงศ์&#8221;">2</a></span>                            <span>
+                                <a href="http://thinkofliving.com/2015/02/02/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-noble-gable-interview/" rel="bookmark" title="Permanent Link to เปิดโครงการ Noble Gable พร้อมบทสัมภาษณ์ &#8220;ธีรพล วรนิธิพงศ์&#8221;" target="_blank">เปิดโครงการ Noble Gable พร้อมบทสัมภาษณ์ &#8220;ธีรพล วรนิธิพงศ์&#8221;</a>
+                            </span>
+                            <div class="date">February 2, 2015, 08:07</div>
+                        </li>            </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/column/%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c/" class="nextActions"
+               target="_blank">บทความสัมภาษณ์ทั้งหมด (59) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->        </div><!-- #main-middle -->
+        <div class="clear"></div>
+        <div class="main-row">
+            <span class="main-left-banner" style="margin-top: 0;">            </span><!-- #main-left-banner -->
+            <span id="main-right-middle">			<div class="textwidget"><div class="clear"></div></div>
+		            </span><!-- #main-right-middle-->
+        </div><!-- main-row -->
+        <div class="clear"></div>
+
+        <div class="main-row">
+        <div class="single-column-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/reviews/condo-review/" target="_blank" title="รีวิวคอนโด">
+                    รีวิวคอนโด                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/20/centric-tiwanon-station/" title="Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/centric-tiwanon-wt-70-540x360.jpg" alt="Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]" class="Thumbnail thumbnail large " width="400px" height="240" /></a></div>
+                <h5>
+                    <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/20/centric-tiwanon-station/#comments" title="Comment on Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]">13</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/20/centric-tiwanon-station/" rel="bookmark" title="Permanent Link to Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]" target="_blank">Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>            <div class="comments">
+                <ul class="latest-comments">
+                                    <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>araya                    </span><span class='comment-text'>42เปอเซนต์ ไม่รวมจอดซ้อนคัน น่าจะมาตรฐาน ไล่อ่านคอนโดรุ่นใหม่แทบทั้งหมด แทบไม่มีคอนโดระดับกลางอันไหน ที่จอด... </span>                </li>                <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>Niwat                    </span><span class='comment-text'>ที่จอดรถน้อยคะแนนส่วนกลางก็ควรน้อยครับ </span>                </li>                <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>teeya                    </span><span class='comment-text'>จิงๆ ราคาต่อ ตรม.ที่เห็นขายๆกันในเวปล่าสุดถูกมากนะคะเห็นห้อง 32ตรม. ขายกัน 2.2-2.5... </span>                </li>                </ul>
+                <!-- latest-comments -->
+            </div><!-- comments -->
+            <div class="clear"></div>
+                <ul class="stories">                        <li>
+                            <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/17/ideo-%e0%b8%aa%e0%b8%b2%e0%b8%97%e0%b8%a3-%e0%b8%97%e0%b9%88%e0%b8%b2%e0%b8%9e%e0%b8%a3%e0%b8%b0-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-review/#comments" title="Comment on IDEO สาทร-ท่าพระ คอนโด High Rise 31 ชั้น ใกล้รถไฟฟ้าสถานีโพธิ์นิมิตร จากอนันดา [รีวิวฉบับที่ 770]">10</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/17/ideo-%e0%b8%aa%e0%b8%b2%e0%b8%97%e0%b8%a3-%e0%b8%97%e0%b9%88%e0%b8%b2%e0%b8%9e%e0%b8%a3%e0%b8%b0-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94-review/" rel="bookmark" title="Permanent Link to IDEO สาทร-ท่าพระ คอนโด High Rise 31 ชั้น ใกล้รถไฟฟ้าสถานีโพธิ์นิมิตร จากอนันดา [รีวิวฉบับที่ 770]" target="_blank">IDEO สาทร-ท่าพระ คอนโด High Rise 31 ชั้น ใกล้รถไฟฟ้าสถานีโพธิ์นิมิตร จากอนันดา [รีวิวฉบับที่ 770]</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/12/blu-%e0%b8%8a%e0%b8%b0%e0%b8%ad%e0%b8%b3-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%ab%e0%b8%b4%e0%b8%99-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94%e0%b8%95%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%b2%e0%b8%81/#respond" title="Comment on blu ชะอำ-หัวหิน คอนโดตากอากาศ High Rise จากร่วมอิสสระ [รีวิวฉบับที่ 769]">0</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/12/blu-%e0%b8%8a%e0%b8%b0%e0%b8%ad%e0%b8%b3-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%ab%e0%b8%b4%e0%b8%99-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%94%e0%b8%95%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%b2%e0%b8%81/" rel="bookmark" title="Permanent Link to blu ชะอำ-หัวหิน คอนโดตากอากาศ High Rise จากร่วมอิสสระ [รีวิวฉบับที่ 769]" target="_blank">blu ชะอำ-หัวหิน คอนโดตากอากาศ High Rise จากร่วมอิสสระ [รีวิวฉบับที่ 769]</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/08/the-oscar-%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%a1-58-video/#respond" title="Comment on คิด.เรื่อง.อยู่ Ep.117 &#8211; รีวิวคอนโด The Oscar เพชรเกษม 58">0</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/08/the-oscar-%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%a1-58-video/" rel="bookmark" title="Permanent Link to คิด.เรื่อง.อยู่ Ep.117 &#8211; รีวิวคอนโด The Oscar เพชรเกษม 58" target="_blank">คิด.เรื่อง.อยู่ Ep.117 &#8211; รีวิวคอนโด The Oscar เพชรเกษม 58</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/06/the-lake-condominium/#comments" title="Comment on The Lake Condominium คอนโด High Rise 30 ชั้น ย่านเมืองทองธานี จาก เบต้า แคปปิตอล  [รีวิวฉบับที่ 766]">13</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/06/the-lake-condominium/" rel="bookmark" title="Permanent Link to The Lake Condominium คอนโด High Rise 30 ชั้น ย่านเมืองทองธานี จาก เบต้า แคปปิตอล  [รีวิวฉบับที่ 766]" target="_blank">The Lake Condominium คอนโด High Rise 30 ชั้น ย่านเมืองทองธานี จาก เบต้า แคปปิตอล  [รีวิวฉบับที่ 766]</a>
+                            </span>
+                        </li>                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/reviews/condo-review/" class="nextActions"
+               target="_blank">รีวิวคอนโดทั้งหมด (688) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->
+        <div class="single-column-post-list" style="width: 400px">
+            <h2>
+                <a href="http://thinkofliving.com/category/reviews/house-review/" target="_blank" title="รีวิวบ้าน">
+                    รีวิวบ้าน                </a>
+            </h2><div class="thumb"><a href="http://thinkofliving.com/2015/02/18/the-balanz-%e0%b8%a8%e0%b8%b2%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%b2-review/" title="The Balanz ศาลายา โครงการบ้านเดี่ยว บ้านแฝด ใกล้เซ็นทรัลศาลายา จาก Land and Property Group [รีวิวฉบับที่ 771]"><img src="http://thinkofliving.com/wp-content/uploads/2015/02/TheBalanz_UNMozel_02_WM-540x360.jpg" alt="The Balanz ศาลายา โครงการบ้านเดี่ยว บ้านแฝด ใกล้เซ็นทรัลศาลายา จาก Land and Property Group [รีวิวฉบับที่ 771]" class="Thumbnail thumbnail large " width="400px" height="240" /></a></div>
+                <h5>
+                    <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/18/the-balanz-%e0%b8%a8%e0%b8%b2%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%b2-review/#comments" title="Comment on The Balanz ศาลายา โครงการบ้านเดี่ยว บ้านแฝด ใกล้เซ็นทรัลศาลายา จาก Land and Property Group [รีวิวฉบับที่ 771]">10</a></span>
+                    <span class="title">
+                        <a href="http://thinkofliving.com/2015/02/18/the-balanz-%e0%b8%a8%e0%b8%b2%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%b2-review/" rel="bookmark" title="Permanent Link to The Balanz ศาลายา โครงการบ้านเดี่ยว บ้านแฝด ใกล้เซ็นทรัลศาลายา จาก Land and Property Group [รีวิวฉบับที่ 771]" target="_blank">The Balanz ศาลายา โครงการบ้านเดี่ยว บ้านแฝด ใกล้เซ็นทรัลศาลายา จาก Land and Property Group [รีวิวฉบับที่ 771]</a>
+                    </span>
+                </h5>
+                <div class="clear"></div>            <div class="comments">
+                <ul class="latest-comments">
+                                    <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>RYA                    </span><span class='comment-text'>ไปดูมาแล้วเมื่อวันเสาร์ ชอบที่เนื่อที่ใช้สอยและเนือทีีดินเยอะแบบถูกใจ เมื่อเทียบก็บโครงการใกล้เคียง ส่วน club house... </span>                </li>                <li class='latest-comment'>
+                    <span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                    </span>
+                    <span class='recent-author'>Nv                    </span><span class='comment-text'>ต้องเข้าใจครับ dev มือใหม่ เซลมือใหม่ ม้าหน้าใหม่ สเตปยังไม่ค่อยเนียนครับ... </span>                </li>                <li class='latest-comment'>
+                    <span class='avatar'><img id="upme-avatar-user_pic" src="/forum/?qa=image&qa_blobid=5163323407973543557&qa_size=50" class="avatar avatar-50" />                    </span>
+                    <span class='recent-author'>TNN                    </span><span class='comment-text'>แปลกแต่จริงนะครับ ผมเฝ้ารอมา 5 วัน เพื่อจะดูว่า จะมีใครเข้ามาวิจารณ์หมู่บ้านนี้ยยังไงบ้าง... </span>                </li>                </ul>
+                <!-- latest-comments -->
+            </div><!-- comments -->
+            <div class="clear"></div>
+                <ul class="stories">                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/15/h-cape-biz-sector-video/#respond" title="Comment on คิด.เรื่อง.อยู่ Ep.118 &#8211; รีวิวโฮมออฟฟิศ H-Cape Biz Sector อ่อนนุช">0</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/15/h-cape-biz-sector-video/" rel="bookmark" title="Permanent Link to คิด.เรื่อง.อยู่ Ep.118 &#8211; รีวิวโฮมออฟฟิศ H-Cape Biz Sector อ่อนนุช" target="_blank">คิด.เรื่อง.อยู่ Ep.118 &#8211; รีวิวโฮมออฟฟิศ H-Cape Biz Sector อ่อนนุช</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/11/casa-city-%e0%b8%a7%e0%b8%b1%e0%b8%8a%e0%b8%a3%e0%b8%9e%e0%b8%a5-%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%aa%e0%b8%b4%e0%b8%99-%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82/#respond" title="Comment on Casa City วัชรพล-เพิ่มสิน ทาวน์โฮม 2 ชั้น ติดถนนเพิ่มสิน จาก Q House [รีวิวฉบับที่ 768]">0</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/11/casa-city-%e0%b8%a7%e0%b8%b1%e0%b8%8a%e0%b8%a3%e0%b8%9e%e0%b8%a5-%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%aa%e0%b8%b4%e0%b8%99-%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82/" rel="bookmark" title="Permanent Link to Casa City วัชรพล-เพิ่มสิน ทาวน์โฮม 2 ชั้น ติดถนนเพิ่มสิน จาก Q House [รีวิวฉบับที่ 768]" target="_blank">Casa City วัชรพล-เพิ่มสิน ทาวน์โฮม 2 ชั้น ติดถนนเพิ่มสิน จาก Q House [รีวิวฉบับที่ 768]</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments "><a href="http://thinkofliving.com/2015/02/09/district-sriwara/#comments" title="Comment on DISTRICT &#8211; Sriwara โฮมออฟฟิศแนวโมเดิร์น 4 ชั้น บนถนนศรีวรา โดย AP Property [รีวิวฉบับที่ 767]">1</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/09/district-sriwara/" rel="bookmark" title="Permanent Link to DISTRICT &#8211; Sriwara โฮมออฟฟิศแนวโมเดิร์น 4 ชั้น บนถนนศรีวรา โดย AP Property [รีวิวฉบับที่ 767]" target="_blank">DISTRICT &#8211; Sriwara โฮมออฟฟิศแนวโมเดิร์น 4 ชั้น บนถนนศรีวรา โดย AP Property [รีวิวฉบับที่ 767]</a>
+                            </span>
+                        </li>                        <li>
+                            <span class="post-comments  post-comments-highlight"><a href="http://thinkofliving.com/2015/02/05/baanpuripuri-%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b8%a3%e0%b8%b4%e0%b8%9b%e0%b8%b8%e0%b8%a3%e0%b8%b5-%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%ae%e0%b8%a1-3/#comments" title="Comment on BaanPuriPuri (บ้านภูริปุรี) ทาวน์โฮม 3 ชั้น พร้อม Private Courtyard ในซอยโชคชัย 4 จากกลุ่มสถาปนิก [รีวิวฉบับที่ 765]">23</a></span>
+                            <span class="title">
+                                <a href="http://thinkofliving.com/2015/02/05/baanpuripuri-%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b8%a3%e0%b8%b4%e0%b8%9b%e0%b8%b8%e0%b8%a3%e0%b8%b5-%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%ae%e0%b8%a1-3/" rel="bookmark" title="Permanent Link to BaanPuriPuri (บ้านภูริปุรี) ทาวน์โฮม 3 ชั้น พร้อม Private Courtyard ในซอยโชคชัย 4 จากกลุ่มสถาปนิก [รีวิวฉบับที่ 765]" target="_blank">BaanPuriPuri (บ้านภูริปุรี) ทาวน์โฮม 3 ชั้น พร้อม Private Courtyard ในซอยโชคชัย 4 จากกลุ่มสถาปนิก [รีวิวฉบับที่ 765]</a>
+                            </span>
+                        </li>                </ul><!-- stories-->            <div class="continue">
+            <a href="http://thinkofliving.com/category/reviews/house-review/" class="nextActions"
+               target="_blank">รีวิวบ้านทั้งหมด (254) &rarr;</a>
+            </div>        </div><!-- lite-post-list-->        </div><!-- main-row -->
+        <div class="clear"></div>
+        <div class="main-row">
+            <span class="main-left-banner">            </span><!-- #main-left-banner -->
+            <span id="main-right-bottom">            </span><!-- #main-right-bottom -->
+        </div><!-- main-row -->
+        <div class="clear"></div>
+        <div class="main-row">			<div class="textwidget"><div class="clear"></div></div>
+		        </div><!-- main-row -->
+        <div class="clear"></div>
+    </div><!-- /#main --><div id="sidebar" class="right"><div id="upme_login_widget-2" class="widget upme-sidebar upme-login-widget upme-clearfix"><div class="upme-widget-wrap upme-login upme-sidebar-widget">
+        <div class="upme-inner upme-login-wrapper"><div class="upme-widget-main"><form action="" method="post" id="upme-login-form-1"><div class="upme-field upme-edit upme-edit-show upme-user_login"><div class="upme-field-value"><label class="upme-field-type-sidebar"></label><input type="text" class="upme-input in_sidebar_value" name="user_login" id="user_login" value=""  placeholder="Email" /></div></div><div class="upme-clear"></div><div class="upme-field upme-edit upme-edit-show upme-login_user_pass"><div class="upme-field-value"><label class="upme-field-type-sidebar"></label><input type="password" class="upme-input in_sidebar_value" name="login_user_pass" id="login_user_pass" value=""  placeholder="Password" /></div></div><div class="upme-clear"></div><div class="upme-field" style="width: 60px; margin: 0 8px 0 0;padding: 0;">
+            <input type="submit" class="upme-login" name="upme-login" id="upme-login" value="Log In"
+                style="font-size: 14px; font-weight: normal;height: 30px;cursor: pointer;color: white; background: #1391da none no-repeat;
+                    border: none;text-shadow: none;width: 60px;" />
+        </div><input type="hidden" name="no_captcha" value="yes" /><div class="upme-field upme-edit upme-edit-show">
+        <label class="upme-field-type upme-field-type-upme-sidebar">&nbsp;</label>
+        <div class="upme-field-value"><div class="upme-clear"></div><div class="upme-rememberme in_sidebar_remember">
+                <i class="rememberme upme-icon-check-empty"></i><a href="javascript:void(0);" class="rememberme"> Remember me</a>
+                <input type="hidden" name="rememberme" id="rememberme-1" value="0" /><label class="upme-widget-link-separator">|</label> <a href="javascript:void(0);" id="upme-forgot-pass-1"
+                             class="upme-login-forgot-link upme-sidebar"
+                             title="Forgot password">Forgot password</a>  <label class="upme-widget-link-separator">|</label> <a href="http://thinkofliving.com/register/" class="upme-login-register-link upme-sidebar">Register</a></div> </div>
+        </div><div class="upme-clear"></div><input type="hidden" name="redirect_to" value="" /></form><div class="upme-forgot-pass" id="upme-forgot-pass-holder-1"  style="display: none;"><div class="upme-field upme-edit upme-edit-show"><div class="upme-field-value"><input type="text" class="upme-input" name="user_name_email" id="user_name_email-1" style="width: 240px; float: left; margin: 0 4px 0 0;"
+                value="" placeholder="Username or Email"/><input type="button" name="upme-forgot-pass" id="upme-forgot-pass-btn-1" style = "float: left; height: 33px;" class="upme-button upme-login" value="Forgot Password"/></div></div><div class="upme-back-to-login"><a href="javascript:void(0);" class="upme-login-register-link upme-sidebar" title="Back to Login" id="upme-back-to-login-1">Back to Login</a> </div></div></div>
+
+        </div>
+        </div><div style="clear:both;"></div></div><div id="bannerwidget-51" class="widget BannerWidget"> 	<span class='rand-single-ads' rand-group='a3249adb-033b-452f-9b60-3f3e242c6adc' rand-item-index='1' style='display:none;'>
+								
+			<a href='https://www.facebook.com/media/set/?set=a.846686945370509.1073741844.163399237032620&amp;type=3' target='_blank' rel='nofollow'>
+				<img title='STARMARK BR1-1R'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/Starmark.gif' 
+					alt='STARMARK BR1-1R'
+					width='400' 
+					height='120'
+					track-view='168d26e9-ad59-4883-ad80-d10835a18f73' 
+					track-img-click='168d26e9-ad59-4883-ad80-d10835a18f73'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/Starmark.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='a3249adb-033b-452f-9b60-3f3e242c6adc' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://goo.gl/0IhfkI' target='_blank' rel='nofollow'>
+				<img title='Noble BR1-1R'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/400x1202.jpg' 
+					alt='Noble BR1-1R'
+					width='400' 
+					height='120'
+					track-view='074b42ad-7016-405f-a555-853205a7541b' 
+					track-img-click='074b42ad-7016-405f-a555-853205a7541b'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/400x1202.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='a3249adb-033b-452f-9b60-3f3e242c6adc' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://www.mk.co.th/august/c80condo.html' target='_blank' rel='nofollow'>
+				<img title='MK BR1-1R'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/BANNER-400x120.gif' 
+					alt='MK BR1-1R'
+					width='400' 
+					height='120'
+					track-view='b5a131d9-4833-42fb-a5b3-473b89fcd0bb' 
+					track-img-click='b5a131d9-4833-42fb-a5b3-473b89fcd0bb'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/BANNER-400x120.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='a3249adb-033b-452f-9b60-3f3e242c6adc' rand-item-index='4' style='display:none;'>
+								
+			<a href='http://www.suanluang.co.th/' target='_blank' rel='nofollow'>
+				<img title='suanluang BR1-1R'
+					src='http://thinkofliving.com/wp-content/uploads/2014/12/141208tol_banner.gif' 
+					alt='suanluang BR1-1R'
+					width='400' 
+					height='120'
+					track-view='10579e0e-6ab9-4a4a-a36a-8cbf7fa8c2b2' 
+					track-img-click='10579e0e-6ab9-4a4a-a36a-8cbf7fa8c2b2'
+					media-source='http://thinkofliving.com/wp-content/uploads/2014/12/141208tol_banner.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='a3249adb-033b-452f-9b60-3f3e242c6adc' rand-item-index='5' style='display:none;'>
+								
+			<a href='http://www.mde.co.th/maestro02' target='_blank' rel='nofollow'>
+				<img title='Major BR1-1R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/MET02-12-Banner_TOL-400x120.gif' 
+					alt='Major BR1-1R(M)'
+					width='400' 
+					height='120'
+					track-view='e42e1d58-df89-44c2-b314-132d6405a128' 
+					track-img-click='e42e1d58-df89-44c2-b314-132d6405a128'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/MET02-12-Banner_TOL-400x120.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='a3249adb-033b-452f-9b60-3f3e242c6adc' rand-item-index='6' style='display:none;'>
+								
+			<a href='http://www.ncgroup.co.th/condominium/DiamantCondoChiangMai/index.php' target='_blank' rel='nofollow'>
+				<img title='NC Group BR1-1R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/SBU2-DM-400x120px.jpg' 
+					alt='NC Group BR1-1R(M)'
+					width='400' 
+					height='120'
+					track-view='1d8635bb-9c66-4fdf-b495-39ce0029a1f0' 
+					track-img-click='1d8635bb-9c66-4fdf-b495-39ce0029a1f0'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/SBU2-DM-400x120px.jpg'
+					/>
+			</a>
+			
+							</span></div><div id="bannerwidget-52" class="widget BannerWidget"> 	<span class='rand-single-ads' rand-group='3b973aac-4047-4ac3-a6d6-c6d15f838338' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.grandu.co.th/udrr/webpage/main.html' target='_blank' rel='nofollow'>
+				<img title='GU BR1-2-1R(M)**'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/udrr-420x120-TOL.gif' 
+					alt='GU BR1-2-1R(M)**'
+					width='400' 
+					height='120'
+					track-view='3713201b-882f-496a-aec1-900b75eb04f1' 
+					track-img-click='3713201b-882f-496a-aec1-900b75eb04f1'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/udrr-420x120-TOL.gif'
+					/>
+			</a>
+			
+							</span></div><div id="bannerwidget-53" class="widget BannerWidget"> 	<span class='rand-single-ads' rand-group='f1b35bb4-35ed-4035-a8ad-6864f1f850fe' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://goo.gl/PjdLE5' target='_blank' rel='nofollow'>
+				<img title='Noble BR1-3R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/400x2502.jpg' 
+					alt='Noble BR1-3R(M)'
+					width='400' 
+					height='250'
+					track-view='52d89e41-9a4c-40a7-9327-07a102b83234' 
+					track-img-click='52d89e41-9a4c-40a7-9327-07a102b83234'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/400x2502.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='f1b35bb4-35ed-4035-a8ad-6864f1f850fe' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://www.mde.co.th/msilom' target='_blank' rel='nofollow'>
+				<img title='Major BR1-3R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/16-1-MSL-400x250px.jpg' 
+					alt='Major BR1-3R(M)'
+					width='400' 
+					height='250'
+					track-view='0080f2d3-ce14-4b4a-8e59-e22eed6cc4ef' 
+					track-img-click='0080f2d3-ce14-4b4a-8e59-e22eed6cc4ef'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/16-1-MSL-400x250px.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='f1b35bb4-35ed-4035-a8ad-6864f1f850fe' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://www.pf.co.th/promotion/TheSKYMetroSKY_Promotion_FEB_2015.php?utm_source=thinkofliving&amp;utm_medium=banner&amp;utm_content=400x250&amp;utm_campaign=Feb15_TheSkyMetroSky' target='_blank' rel='nofollow'>
+				<img title='PF 1-3R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/23-2PF_02Feb_TheskyMetrosky_400x250_Backup.jpg' 
+					alt='PF 1-3R(M)'
+					width='400' 
+					height='250'
+					track-view='e654d96f-f05a-444e-a804-6203de27c946' 
+					track-img-click='e654d96f-f05a-444e-a804-6203de27c946'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/23-2PF_02Feb_TheskyMetrosky_400x250_Backup.jpg'
+					/>
+			</a>
+			
+							</span></div><div id="zone-list-widget-2" class="widget TOL">        <div class="zone-list">
+            <h2 class="title">
+                <a href="http://thinkofliving.com/%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/"
+                   target="_blank" title="ค้นหารีวิวและรายละเอียดโครงการ">
+                    ค้นหารีวิวและรายละเอียดโครงการ                </a>
+            </h2>
+            <ul class="zone-list"><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%8a%e0%b8%b4%e0%b8%94%e0%b8%a5%e0%b8%a1-%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%94%e0%b8%b3%e0%b8%a3%e0%b8%b4/' title='ชิดลม - ราชดำริ' target='_blank'>ชิดลม - ราชดำริ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1-%e0%b8%aa%e0%b8%b2%e0%b8%97%e0%b8%a3/' title='สีลม - สาทร' target='_blank'>สีลม - สาทร</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%98%e0%b8%99%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b5-%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88/' title='ธนบุรี - วงเวียนใหญ่' target='_blank'>ธนบุรี - วงเวียนใหญ่</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a5%e0%b8%b9-%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%ab%e0%b8%a7%e0%b9%89%e0%b8%b2/' title='ตลาดพลู - บางหว้า' target='_blank'>ตลาดพลู - บางหว้า</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%ad%e0%b9%82%e0%b8%a8%e0%b8%81-%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c/' title='อโศก - พร้อมพงษ์' target='_blank'>อโศก - พร้อมพงษ์</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%97%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad-%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87/' title='ทองหล่อ - พระโขนง' target='_blank'>ทองหล่อ - พระโขนง</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%ad%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%99%e0%b8%b8%e0%b8%8a-%e0%b8%9b%e0%b8%b8%e0%b8%93%e0%b8%93%e0%b8%a7%e0%b8%b4%e0%b8%96%e0%b8%b5/' title='อ่อนนุช - ปุณณวิถี' target='_blank'>อ่อนนุช - ปุณณวิถี</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%ad%e0%b8%b8%e0%b8%94%e0%b8%a1%e0%b8%aa%e0%b8%b8%e0%b8%82-%e0%b9%81%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%87/' title='อุดมสุข - แบริ่ง' target='_blank'>อุดมสุข - แบริ่ง</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%9e%e0%b8%8d%e0%b8%b2%e0%b9%84%e0%b8%97-%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%99/' title='พญาไท - สามย่าน' target='_blank'>พญาไท - สามย่าน</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c-%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%8a%e0%b8%b4%e0%b8%95/' title='อารีย์ - หมอชิต' target='_blank'>อารีย์ - หมอชิต</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%b2%e0%b8%a1-4-%e0%b8%a5%e0%b8%b8%e0%b8%a1%e0%b8%9e%e0%b8%b4%e0%b8%99%e0%b8%b5/' title='พระราม 4 - ลุมพินี' target='_blank'>พระราม 4 - ลุมพินี</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b5-%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%b2%e0%b8%a1-9/' title='เพชรบุรี - พระราม 9' target='_blank'>เพชรบุรี - พระราม 9</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b1%e0%b8%8a%e0%b8%94%e0%b8%b2%e0%b8%a0%e0%b8%b4%e0%b9%80%e0%b8%a9%e0%b8%81-%e0%b8%ab%e0%b9%89%e0%b8%a7%e0%b8%a2%e0%b8%82%e0%b8%a7%e0%b8%b2%e0%b8%87/' title='รัชดาภิเษก - ห้วยขวาง' target='_blank'>รัชดาภิเษก - ห้วยขวาง</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a7/' title='ลาดพร้าว' target='_blank'>ลาดพร้าว</a></li><li class='blank-row'></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87-%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%b2%e0%b8%a1-3/' title='เจริญกรุง - พระราม 3' target='_blank'>เจริญกรุง - พระราม 3</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b1%e0%b8%95%e0%b8%99%e0%b8%b2%e0%b8%98%e0%b8%b4%e0%b9%80%e0%b8%9a%e0%b8%a8%e0%b8%a3%e0%b9%8c-%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88/' title='รัตนาธิเบศร์ - บางใหญ่' target='_blank'>รัตนาธิเบศร์ - บางใหญ่</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b4%e0%b9%8c-%e0%b8%a3%e0%b8%b2%e0%b8%a9%e0%b8%8e%e0%b8%a3%e0%b9%8c%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b8%b0/' title='สุขสวัสดิ์ - ราษฎร์บูรณะ' target='_blank'>สุขสวัสดิ์ - ราษฎร์บูรณะ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%87%e0%b8%b2%e0%b8%a1%e0%b8%a7%e0%b8%87%e0%b8%a8%e0%b9%8c%e0%b8%a7%e0%b8%b2%e0%b8%99-%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b0/' title='งามวงศ์วาน - แจ้งวัฒนะ' target='_blank'>งามวงศ์วาน - แจ้งวัฒนะ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%8b%e0%b8%b7%e0%b9%88%e0%b8%ad-%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99/' title='บางซื่อ - ประชาชื่น' target='_blank'>บางซื่อ - ประชาชื่น</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2-%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c/' title='บางนา - ศรีนครินทร์' target='_blank'>บางนา - ศรีนครินทร์</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%88%e0%b8%a3%e0%b8%b1%e0%b8%8d/' title='จรัญสนิทวงศ์' target='_blank'>จรัญสนิทวงศ์</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%b2%e0%b8%a1-2-%e0%b9%80%e0%b8%ad%e0%b8%81%e0%b8%8a%e0%b8%b1%e0%b8%a2/' title='พระราม 2 - เอกชัย' target='_blank'>พระราม 2 - เอกชัย</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b1%e0%b8%8a%e0%b9%82%e0%b8%a2%e0%b8%98%e0%b8%b4%e0%b8%99-%e0%b8%aa%e0%b8%b0%e0%b8%9e%e0%b8%b2%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/' title='รัชโยธิน - สะพานใหม่' target='_blank'>รัชโยธิน - สะพานใหม่</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b4%e0%b8%95-%e0%b8%9b%e0%b8%97%e0%b8%b8%e0%b8%a1%e0%b8%98%e0%b8%b2%e0%b8%99%e0%b8%b5/' title='รังสิต - ปทุมธานี' target='_blank'>รังสิต - ปทุมธานี</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%94%e0%b8%87-%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%a3%e0%b8%a0/' title='ดินแดง - ราชปรารภ' target='_blank'>ดินแดง - ราชปรารภ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c-2/' title='ราชพฤกษ์' target='_blank'>ราชพฤกษ์</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%9a%e0%b8%b1%e0%b8%a7%e0%b8%97%e0%b8%ad%e0%b8%87-%e0%b8%81%e0%b8%b2%e0%b8%8d%e0%b8%88%e0%b8%99%e0%b8%b2%e0%b8%a0%e0%b8%b4%e0%b9%80%e0%b8%a9%e0%b8%81/' title='บางบัวทอง - กาญจนาภิเษก' target='_blank'>บางบัวทอง - กาญจนาภิเษก</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%ad%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%b2-%e0%b8%aa%e0%b8%b8%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%a8%e0%b9%8c/' title='รามอินทรา - สุวินทวงศ์' target='_blank'>รามอินทรา - สุวินทวงศ์</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a7%e0%b8%b1%e0%b8%8a%e0%b8%a3%e0%b8%9e%e0%b8%a5-%e0%b8%aa%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%ab%e0%b8%a1/' title='วัชรพล - สายไหม' target='_blank'>วัชรพล - สายไหม</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a7%e0%b8%b4%e0%b8%a0%e0%b8%b2%e0%b8%a7%e0%b8%94%e0%b8%b5-%e0%b8%94%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87/' title='วิภาวดี - ดอนเมือง' target='_blank'>วิภาวดี - ดอนเมือง</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%aa%e0%b8%b3%e0%b9%82%e0%b8%a3%e0%b8%87-%e0%b9%80%e0%b8%97%e0%b8%9e%e0%b8%b2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a9%e0%b9%8c/' title='สำโรง - เทพารักษ์' target='_blank'>สำโรง - เทพารักษ์</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%87-%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b0%e0%b8%9b%e0%b8%b4/' title='รามคำแหง - บางกะปิ' target='_blank'>รามคำแหง - บางกะปิ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%b1%e0%b8%87-%e0%b8%aa%e0%b8%b8%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4/' title='ลาดกระบัง - สุวรรณภูมิ' target='_blank'>ลาดกระบัง - สุวรรณภูมิ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%95%e0%b8%a3-%e0%b8%99%e0%b8%a7%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c/' title='เกษตร - นวมินทร์' target='_blank'>เกษตร - นวมินทร์</a></li><li class='blank-row'></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%81%e0%b8%a5%e0%b8%b2%e0%b8%87/' title='ภาคกลาง' target='_blank'>ภาคกลาง</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%ad%e0%b8%81/' title='ภาคตะวันออก' target='_blank'>ภาคตะวันออก</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%89%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad/' title='ภาคตะวันออกเฉียงเหนือ' target='_blank'>ภาคตะวันออกเฉียงเหนือ</a></li><li class='zone-item'><a href='http://thinkofliving.com/zone/%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b9%83%e0%b8%95%e0%b9%89%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b8%81/' title='ภาคใต้และตะวันตก' target='_blank'>ภาคใต้และตะวันตก</a></li>            </ul>                    <div class="continue">
+                        <a href="http://thinkofliving.com/%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3/"
+                           class="nextActions" target="_blank">ค้นหาโดยละเอียด  &rarr;</a>
+                    </div>        </div><!-- zone-list --></div><div id="bannerwidget-54" class="widget BannerWidget"> 	<span class='rand-single-ads' rand-group='cec16f4f-cee2-4ea9-886c-57b3c077178b' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://www.aerascondo.com/' target='_blank' rel='nofollow'>
+				<img title='Aeras Condo 2-1R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2014/08/Untitled-2-01.jpg' 
+					alt='Aeras Condo 2-1R(M)'
+					width='400' 
+					height='120'
+					track-view='352ab950-7905-4a93-a34d-2dd5b5389d1d' 
+					track-img-click='352ab950-7905-4a93-a34d-2dd5b5389d1d'
+					media-source='http://thinkofliving.com/wp-content/uploads/2014/08/Untitled-2-01.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='cec16f4f-cee2-4ea9-886c-57b3c077178b' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://www.qh.co.th/' target='_blank' rel='nofollow'>
+				<img title='The Trust BR2R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/170.jpg' 
+					alt='The Trust BR2R(M)'
+					width='400' 
+					height='250'
+					track-view='6efe168a-2801-4885-bdfd-c9d7f518f710' 
+					track-img-click='6efe168a-2801-4885-bdfd-c9d7f518f710'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/170.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='cec16f4f-cee2-4ea9-886c-57b3c077178b' rand-item-index='3' style='display:none;'>
+								<div track-text-click='08f0eb57-7042-4c4a-b51c-80816abf672d' track-view='08f0eb57-7042-4c4a-b51c-80816abf672d' media-source=''><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://unitus.synergy-e.com/www/delivery/ajs.php':'http://unitus.synergy-e.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=8807");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><noscript><a href='http://unitus.synergy-e.com/www/delivery/ck.php?n=a9ac279e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://unitus.synergy-e.com/www/delivery/avw.php?zoneid=8807&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9ac279e' border='0' alt='' /></a></noscript></div>
+							</span></div><div id="bannerwidget-55" class="widget BannerWidget"></div><div id="mixedforumactivitywidget-2" class="widget ForumActivityWidget"><div class="forum-post-list">
+            <div>
+                <h2 class="title">
+                    <span class="forum-post-header">
+                        <a href="/forum/" target="_blank" title="WEBBOARD">
+                            WEBBOARD</span>
+                        </a>
+                </h2>
+            </div><!-- a -->﻿            <div                 class="forum-post-list-item forum-post-item-top-voted" >
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+                <div class="post-comments ">
+                    <a
+                        href="/forum/53323"
+                        target="_blank"
+                        title="พอดีเห็นข่าวออก ให้ลงทะเบียนแสดงความสนใจ ลงไปแล้วเงียบเลย ไม่เห็นข่าวงานเปิดตัว แต่วันนี้อีกโครงการนึงที่ลาดพร้าวที่ลงพร้อมกันเปิดจองไปแล้ว แสดงว่าคนที่ลงทะเบียนไปก่อนไม่ได้ราคาพิเศษหรอคะ ต้องไปแย่งกันวันเปิดตัวเลยหรือเปล่า
+
+ใครพอทราบรายละเอียดบ้างมั้ยคะ ว่าเค้าทำเป็นคอนโดระดับไหน จะเปิดมาที่ ตร.ม. ละเท่าไหร่ จะได้ตัดสินใจถูกว่าจะรอหรือไม่รอดี">3</a>
+                </div>
+                <div class="forum-post-item-main">
+                    <div class="inner-post">
+                        <span class="forum-post-item-when" >
+                            <span class="forum-post-item-when-data">
+                                4 วัน                            </span>
+                            <span class="forum-post-item-when-pad">
+                                 ก่อน                            </span>
+                        </span>
+                        <span class="forum-post-item-who" >
+                            <span class="forum-post-item-who-data">
+                                <a href="/forum/user/lovezemfira"
+                                   class="forum-user-link" target="_blank">LoveZemfira                                </a>
+                            </span>
+                        </span>
+                    </div>
+                    <div class="clear"></div>
+                    <span class="forum-post-item-title">
+                        <a href="/forum/53323" target="_blank">
+                            <span title="พอดีเห็นข่าวออก ให้ลงทะเบียนแสดงความสนใจ ลงไปแล้วเงียบเลย ไม่เห็นข่าวงานเปิดตัว แต่วันนี้อีกโครงการนึงที่ลาดพร้าวที่ลงพร้อมกันเปิดจองไปแล้ว แสดงว่าคนที่ลงทะเบียนไปก่อนไม่ได้ราคาพิเศษหรอคะ ต้องไปแย่งกันวันเปิดตัวเลยหรือเปล่า
+
+ใครพอทราบรายละเอียดบ้างมั้ยคะ ว่าเค้าทำเป็นคอนโดระดับไหน จะเปิดมาที่ ตร.ม. ละเท่าไหร่ จะได้ตัดสินใจถูกว่าจะรอหรือไม่รอดี">ใครพอทราบข่าว Whizdom Urban สุขุมวิท แถว bts ปุณณวิถีบ้างคะ                            </span>
+                        </a>
+                    </span>
+                </div>
+                <div class="forum-post-item-clear"></div>
+            </div><!-- forum-post-list-item --><!-- a -->            <div                 class="forum-post-list-item forum-post-item-top-voted" >
+                            <span class="qa-q-view-avatar" >
+                                <img id="upme-avatar-user_pic" src="/forum/?qa=image&qa_blobid=13024512934302721309&qa_size=50" class="avatar avatar-50" />                            </span>
+                <div class="post-comments ">
+                    <a
+                        href="/forum/53321"
+                        target="_blank"
+                        title="มีใครไปงาน แล้วบ้างครับ
+
+อยากรู้ว่ามีอะไรน่าสนใจบ้าง
+
+เหมือนงานบ้านและคอนโดแบบศูนย์สิริกิตต์หรือเปล่าครับ">2</a>
+                </div>
+                <div class="forum-post-item-main">
+                    <div class="inner-post">
+                        <span class="forum-post-item-when" >
+                            <span class="forum-post-item-when-data">
+                                4 วัน                            </span>
+                            <span class="forum-post-item-when-pad">
+                                 ก่อน                            </span>
+                        </span>
+                        <span class="forum-post-item-who" >
+                            <span class="forum-post-item-who-data">
+                                <a href="/forum/user/ake9522"
+                                   class="forum-user-link" target="_blank">ake9522                                </a>
+                            </span>
+                        </span>
+                    </div>
+                    <div class="clear"></div>
+                    <span class="forum-post-item-title">
+                        <a href="/forum/53321" target="_blank">
+                            <span title="มีใครไปงาน แล้วบ้างครับ
+
+อยากรู้ว่ามีอะไรน่าสนใจบ้าง
+
+เหมือนงานบ้านและคอนโดแบบศูนย์สิริกิตต์หรือเปล่าครับ">มีใครไปงาน Think of Living Condo Expo 2015 แล้วบ้างครับ                            </span>
+                        </a>
+                    </span>
+                </div>
+                <div class="forum-post-item-clear"></div>
+            </div><!-- forum-post-list-item --><div             class="forum-post-list-item " >
+                            <span class="qa-q-view-avatar" >
+                                <img id="upme-avatar-user_pic" src="/forum/?qa=image&qa_blobid=5097814327208116565&qa_size=50" class="avatar avatar-50" />                            </span>
+            <div class="post-comments ">
+                <a
+                    href="/forum/53249"
+                    target="_blank"
+                    title="จะขายคอนโดแต่ผู้ซื้อ อยู่ต่างจังหวัดและได้มอบอำนาจให้ทนายความเดินทางมามาตรวจสอบเอกสารก่อนจ่ายค่ามัดจำครับ  ทนายความผู้ซื้อติดต่อมาทางผมขอดูโฉนดตัวจริง ผมควรจะโชว์โฉนดตัวจริงให้เขาดูไหมครับ  ถามคนที่มีประสบการณ์เขาบอกว่า  โฉนดตัวจริงใช้แค่วันโอนกรรมสิทธิ์ (แต่นี่ยังไม่ได้จ่ายค่ามัดจำแล้วจะขอดูครับ)
+
+รวมทั้งทนายความผู้ซื้อจะขอหนังสือปลอดหนี้จากนิติบุคคลก่อนจ่ายค่ามัดจำ และก่อนเซ็นสัญญาจะซื้อจะขายซะด้วย ผมงงมากครับเพราะตอนผมซื้อเมื่อ 7 ปีที่แล้ว ไม่เห็นจะมีการเรียกร้องอย่างนี้เลย ผมควรทำตามคำขอเขาไหมครับ เขาใช้เหตุผลว่าถ้าไม่เห็นโฉนดตัวจริงก็จะไม่จ่ายเงินมัดจําและไม่ทําสัญญาซื้อขาย   ทางเราได้ส่งสําเนาไปทางอีเมลแต่เขาก็บอกว่าไม่พอ และจะขอถ่ายรูปตัวจริงเท่านั้น
+
+ขอคำแนะนำด้วยครับเพราะทางฝั่งผมไม่ได้ใช้ทนายความและค่อนข้างใหม่ในการขายคอนโดครับ กลัวทางเขาโกงอีกทั้งไม่เข้าใจว่าทําไมเขาไม่ตรวจสอบกับกรมที่ดินโดยใช้เลขโฉนดเช็ค
+
+ขอบคุณมากครับ">2</a>
+            </div>
+            <div class="forum-post-item-main">
+                <div class="inner-post">
+                        <span class="forum-post-item-when" >
+                            <span class="forum-post-item-when-data">
+                                7 ชั่วโมง                            </span>
+                            <span class="forum-post-item-when-pad">
+                                 ก่อน                            </span>
+                        </span>
+                        <span class="forum-post-item-who" >
+                            <span class="forum-post-item-who-data">
+                                <a href="/forum/user/House_locator"
+                                   class="forum-user-link" target="_blank">
+                                    House_locator                                </a>
+                            </span>
+                        </span>
+                </div>
+                <div class="clear"></div>
+                    <span class="forum-post-item-title">
+                        <a href="/forum/53249" target="_blank">
+                            <span title="จะขายคอนโดแต่ผู้ซื้อ อยู่ต่างจังหวัดและได้มอบอำนาจให้ทนายความเดินทางมามาตรวจสอบเอกสารก่อนจ่ายค่ามัดจำครับ  ทนายความผู้ซื้อติดต่อมาทางผมขอดูโฉนดตัวจริง ผมควรจะโชว์โฉนดตัวจริงให้เขาดูไหมครับ  ถามคนที่มีประสบการณ์เขาบอกว่า  โฉนดตัวจริงใช้แค่วันโอนกรรมสิทธิ์ (แต่นี่ยังไม่ได้จ่ายค่ามัดจำแล้วจะขอดูครับ)
+
+รวมทั้งทนายความผู้ซื้อจะขอหนังสือปลอดหนี้จากนิติบุคคลก่อนจ่ายค่ามัดจำ และก่อนเซ็นสัญญาจะซื้อจะขายซะด้วย ผมงงมากครับเพราะตอนผมซื้อเมื่อ 7 ปีที่แล้ว ไม่เห็นจะมีการเรียกร้องอย่างนี้เลย ผมควรทำตามคำขอเขาไหมครับ เขาใช้เหตุผลว่าถ้าไม่เห็นโฉนดตัวจริงก็จะไม่จ่ายเงินมัดจําและไม่ทําสัญญาซื้อขาย   ทางเราได้ส่งสําเนาไปทางอีเมลแต่เขาก็บอกว่าไม่พอ และจะขอถ่ายรูปตัวจริงเท่านั้น
+
+ขอคำแนะนำด้วยครับเพราะทางฝั่งผมไม่ได้ใช้ทนายความและค่อนข้างใหม่ในการขายคอนโดครับ กลัวทางเขาโกงอีกทั้งไม่เข้าใจว่าทําไมเขาไม่ตรวจสอบกับกรมที่ดินโดยใช้เลขโฉนดเช็ค
+
+ขอบคุณมากครับ">
+                               จะโชว์โฉนดตัวจริงให้ผู้ซื้อดู ก่อนเขาจ่ายเงินค่ามัดจําซื้อขายคอนโดได้หรือไม่                            </span>
+                        </a>
+                    </span>
+            </div><!-- forum-post-item-main -->                <div class="forum-post-item-comments">                        <div class="forum-post-item-comment">
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+                            <span class="forum-item-comment-main">
+                                <span class="forum-post-item-who" >
+                                    <span class="forum-post-item-who-data">
+                                        <a href="/forum/user/dekinw"
+                                           class="forum-user-link" target="_blank">
+                                            dekinw                                        </a>
+                                    </span>
+                                </span>
+                                <span class="content">
+                                    ครับผม ______________________ [url=https://sbobet24h.net/]SBOBET[/url] [url=https://sbobet24h.net/]sbobet[/url]                                </span>
+                            </span>
+                        </div>
+                                        </div><!-- forum-post-item-comments -->            <div class="forum-post-item-clear"></div>
+        </div><!-- forum-post-list-item --><div             class="forum-post-list-item " >
+                            <span class="qa-q-view-avatar" >
+                                <img id="upme-avatar-user_pic" src="/forum/?qa=image&qa_blobid=2682464030291410564&qa_size=50" class="avatar avatar-50" />                            </span>
+            <div class="post-comments  post-comments-highlight">
+                <a
+                    href="/forum/52946"
+                    target="_blank"
+                    title="บอกตรงๆครับ ช่วงนี้ เริ่มมึนกับโครงการที่เปิดตัวมาเรื่อยๆ ในหลายๆทำเลดีๆ
+
+เพราะฉะนั้น ซื้อคอนโดช่วงนี้อย่างที่บอก หาข้อมูลให้เยอะๆตัวเลือกยังอีกเพียบ ท่องไว้ๆ
+
+อันนี้เอาไว้เตือนตัวของผมเองด้วยนะครับ
+
+ช่วงนี้คอนโดโครงการที่กำลังจะเปิดขึ้นใหม่ที่น่าสนใจ
+
+1. Noble 33  ใกล้ BTS พร้อมพงษ์ (ในซอยสุขุมวิท 33 )
+
+2. Aston จุฬา-สีลมใกล้ MRT สามย่าน (แถวๆโรงแรมมณเทียร)
+
+3.The Diplomat 39 ของ KPN อันนี้อยู่ก่อนถึง 39 By Sansiri
+
+4.ได้ยินว่า จะมีคอนโดของ อนันดา ขึ้นอีกโครงการ ในซอย 39
+
+5.The Reserve Phayathai ของพฤกษา อยู่ตรงครัวกรุงเทพเดิม ใกล้ๆกับ IdoQ พญาไท
+
+6.HYPE สุขุมวิท 11 ของแกรนด์แอสเสท (เจ้าของเดียวกับ HYPE ตรงBTSนานา)
+
+7.มีข่าวมาว่า REX Hotel โดนซื้อกิจการไปแล้ว และน่าจะเอามาทำโปรเจคคอนโดครับ ตรงนี้อยู่ใกล้ BTS ทองหล่อ ฝั่งเดียวกับ The Crest 34 ตอนนี้โดนทุบไปแล้วนะครับ สำหรับตำนานเก่า REX hotel
+
+8.QHouse สุขุมวิท 6 ทำเลติดบันไดสถานี BTS นานา เลยครับ ตอนนี้กำลังสร้างโชว์รูมอยู่
+
+9.ศาลาแดง วัน คอนโดสุดหรูในซอย ศาลาแดง 1 จาก SC asset ครับ ได้ยินมาว่า ราคา 280,000++ ต่อตารางเมตร 
+
+10.โครงการใหม่ของแสนสิริ ได้ข่าวมาว่าอยู่ใกล้ๆBTS หมอชิต ครับ
+
+ใครมีข้อมูลรายละเอียดอะไรก็มาแชร์ๆกัน ผมจะอัพเดทไปเรื่อยๆนะครับ สำหรับโครงการใหม่ทำเลทอง ที่คิดว่าน่าสนใจ">19</a>
+            </div>
+            <div class="forum-post-item-main">
+                <div class="inner-post">
+                        <span class="forum-post-item-when" >
+                            <span class="forum-post-item-when-data">
+                                8 ชั่วโมง                            </span>
+                            <span class="forum-post-item-when-pad">
+                                 ก่อน                            </span>
+                        </span>
+                        <span class="forum-post-item-who" >
+                            <span class="forum-post-item-who-data">
+                                <a href="/forum/user/vicc"
+                                   class="forum-user-link" target="_blank">
+                                    vicc                                </a>
+                            </span>
+                        </span>
+                </div>
+                <div class="clear"></div>
+                    <span class="forum-post-item-title">
+                        <a href="/forum/52946" target="_blank">
+                            <span title="บอกตรงๆครับ ช่วงนี้ เริ่มมึนกับโครงการที่เปิดตัวมาเรื่อยๆ ในหลายๆทำเลดีๆ
+
+เพราะฉะนั้น ซื้อคอนโดช่วงนี้อย่างที่บอก หาข้อมูลให้เยอะๆตัวเลือกยังอีกเพียบ ท่องไว้ๆ
+
+อันนี้เอาไว้เตือนตัวของผมเองด้วยนะครับ
+
+ช่วงนี้คอนโดโครงการที่กำลังจะเปิดขึ้นใหม่ที่น่าสนใจ
+
+1. Noble 33  ใกล้ BTS พร้อมพงษ์ (ในซอยสุขุมวิท 33 )
+
+2. Aston จุฬา-สีลมใกล้ MRT สามย่าน (แถวๆโรงแรมมณเทียร)
+
+3.The Diplomat 39 ของ KPN อันนี้อยู่ก่อนถึง 39 By Sansiri
+
+4.ได้ยินว่า จะมีคอนโดของ อนันดา ขึ้นอีกโครงการ ในซอย 39
+
+5.The Reserve Phayathai ของพฤกษา อยู่ตรงครัวกรุงเทพเดิม ใกล้ๆกับ IdoQ พญาไท
+
+6.HYPE สุขุมวิท 11 ของแกรนด์แอสเสท (เจ้าของเดียวกับ HYPE ตรงBTSนานา)
+
+7.มีข่าวมาว่า REX Hotel โดนซื้อกิจการไปแล้ว และน่าจะเอามาทำโปรเจคคอนโดครับ ตรงนี้อยู่ใกล้ BTS ทองหล่อ ฝั่งเดียวกับ The Crest 34 ตอนนี้โดนทุบไปแล้วนะครับ สำหรับตำนานเก่า REX hotel
+
+8.QHouse สุขุมวิท 6 ทำเลติดบันไดสถานี BTS นานา เลยครับ ตอนนี้กำลังสร้างโชว์รูมอยู่
+
+9.ศาลาแดง วัน คอนโดสุดหรูในซอย ศาลาแดง 1 จาก SC asset ครับ ได้ยินมาว่า ราคา 280,000++ ต่อตารางเมตร 
+
+10.โครงการใหม่ของแสนสิริ ได้ข่าวมาว่าอยู่ใกล้ๆBTS หมอชิต ครับ
+
+ใครมีข้อมูลรายละเอียดอะไรก็มาแชร์ๆกัน ผมจะอัพเดทไปเรื่อยๆนะครับ สำหรับโครงการใหม่ทำเลทอง ที่คิดว่าน่าสนใจ">
+                               ซื้อคอนโดอย่างใจร้อน โครงการใหม่ๆมีอีกเรื่อยๆ                            </span>
+                        </a>
+                    </span>
+            </div><!-- forum-post-item-main -->                <div class="forum-post-item-comments">                        <div class="forum-post-item-comment">
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+                            <span class="forum-item-comment-main">
+                                <span class="forum-post-item-who" >
+                                    <span class="forum-post-item-who-data">
+                                        <a href="/forum/user/anniemaki"
+                                           class="forum-user-link" target="_blank">
+                                            AnniEMaki                                        </a>
+                                    </span>
+                                </span>
+                                <span class="content">
+                                    VVIP ครับ เป็นลูกค้าเก่าครับ                                </span>
+                            </span>
+                        </div>
+                                                <div class="forum-post-item-comment">
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+                            <span class="forum-item-comment-main">
+                                <span class="forum-post-item-who" >
+                                    <span class="forum-post-item-who-data">
+                                        <a href="/forum/user/xst171"
+                                           class="forum-user-link" target="_blank">
+                                            xst171                                        </a>
+                                    </span>
+                                </span>
+                                <span class="content">
+                                    Nimit เห็นว่า ยอดจองไป 70% เปิดจองตอนไหนหว่า                                </span>
+                            </span>
+                        </div>
+                                        </div><!-- forum-post-item-comments -->            <div class="forum-post-item-clear"></div>
+        </div><!-- forum-post-list-item --><div             class="forum-post-list-item " >
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+            <div class="post-comments  post-comments-highlight">
+                <a
+                    href="/forum/53162"
+                    target="_blank"
+                    title="ซอยนี้ช่วงหลังๆมีข่าวคอนโดเปิดตัวใหม่เยอะจังครับ รวมๆที่เปิดตัวไปแล้วยังสร้างไม่เสร็จก็มี marque, galerie rue de 39, diplomat 39, xxxix, maestro 39 และก็จะมีของโนเบิลอีก ราคาก็ร้อนแรงมาก ถ้าเป็นไปได้อยากให้พีๆเปรียบเทียบแต่ละโครงการหน่อยครับว่าดีแตกต่างกันอย่างไร ของบริษัทไหนน่าซื้อ ผมเชื่อว่าคงมีหลายๆคนรออ่านอยู่ครับ  หรือว่าท่านไหนเคยไปเยี่ยมชมโครงการไหนกันมาแล้วจะมาแลกเปลี่ยนกันก็ดีนะครับ">4</a>
+            </div>
+            <div class="forum-post-item-main">
+                <div class="inner-post">
+                        <span class="forum-post-item-when" >
+                            <span class="forum-post-item-when-data">
+                                12 ชั่วโมง                            </span>
+                            <span class="forum-post-item-when-pad">
+                                 ก่อน                            </span>
+                        </span>
+                        <span class="forum-post-item-who" >
+                            <span class="forum-post-item-who-data">
+                                <a href="/forum/user/Tatum_kub"
+                                   class="forum-user-link" target="_blank">
+                                    Tatum_kub                                </a>
+                            </span>
+                        </span>
+                </div>
+                <div class="clear"></div>
+                    <span class="forum-post-item-title">
+                        <a href="/forum/53162" target="_blank">
+                            <span title="ซอยนี้ช่วงหลังๆมีข่าวคอนโดเปิดตัวใหม่เยอะจังครับ รวมๆที่เปิดตัวไปแล้วยังสร้างไม่เสร็จก็มี marque, galerie rue de 39, diplomat 39, xxxix, maestro 39 และก็จะมีของโนเบิลอีก ราคาก็ร้อนแรงมาก ถ้าเป็นไปได้อยากให้พีๆเปรียบเทียบแต่ละโครงการหน่อยครับว่าดีแตกต่างกันอย่างไร ของบริษัทไหนน่าซื้อ ผมเชื่อว่าคงมีหลายๆคนรออ่านอยู่ครับ  หรือว่าท่านไหนเคยไปเยี่ยมชมโครงการไหนกันมาแล้วจะมาแลกเปลี่ยนกันก็ดีนะครับ">
+                               ซอยสุขุมวิท39                            </span>
+                        </a>
+                    </span>
+            </div><!-- forum-post-item-main -->                <div class="forum-post-item-comments">                        <div class="forum-post-item-comment">
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+                            <span class="forum-item-comment-main">
+                                <span class="forum-post-item-who" >
+                                    <span class="forum-post-item-who-data">
+                                        <a href="/forum/user/xst171"
+                                           class="forum-user-link" target="_blank">
+                                            xst171                                        </a>
+                                    </span>
+                                </span>
+                                <span class="content">
+                                    ตกลง สถานีพร้อมพงษ์เปลี่ยนชื่อหรือเปล่าครับ                                </span>
+                            </span>
+                        </div>
+                                        </div><!-- forum-post-item-comments -->            <div class="forum-post-item-clear"></div>
+        </div><!-- forum-post-list-item --><div             class="forum-post-list-item " >
+                            <span class="qa-q-view-avatar" >
+                                <img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'>                            </span>
+            <div class="post-comments ">
+                <a
+                    href="/forum/45230"
+                    target="_blank"
+                    title="
+	มีทาวน์โฮม 3 ชั้น กำลังสร้างใหม่ กลางเมืองระยอง อยู่ห่างจาก แหลมทอง ไม่เกิน 3 km&nbsp;
+
+	แต่ทางเข้าลึกจากถนนหลัก ประมาณ 200 เมตร &nbsp;
+
+	เลี้ยวเข้ามาในซอยจะมีสองข้างทาง ข้างทางขวา จะมีโครงการบ้านจัดสรร&nbsp;
+
+	ข้างทางขวา จะเป็นสวนยางพารา &nbsp;การเดินทางต้องใช้รถส่วนตัวเท่านั้น
+
+	ราคา 2 ล้าน &nbsp;จอดรถ 2 คัน เนื้อที่ 20 ตารางวา พท.ใช้สอย 165 ตร.ม.
+
+	
+
+	โดยส่วนตัว อยากสอบถามว่า ราคาแพงหรือเปล่าครับ &nbsp;สามารถขายต่อได้ยากหรือเปล่าครับ ถ้าทำเลมันกลางเมือง แต่ว่า
+
+	ต้องอยู่ในซอย แถมตรงข้ามกับสวนยางด้วยครับ &nbsp;ปวดหัวมากๆเลย ช่วยคิดหน่อยนะครับ&nbsp;
+
+	ถ้าจะซื้อคอนโด ก็ราคาประมาณ 1.5 m.+ ครับ แต่ก็ต้องใช้รถยนต์ส่วนตัวอยู่ดี เพราะระยอง มันระบบรถสาธารณะ
+
+	ไม่ดีเท่าที่ กทม.ครับ ไม่มีรถไฟฟ้า&nbsp;">2</a>
+            </div>
+            <div class="forum-post-item-main">
+                <div class="inner-post">
+                        <span class="forum-post-item-when" >
+                            <span class="forum-post-item-when-data">
+                                15 ชั่วโมง                            </span>
+                            <span class="forum-post-item-when-pad">
+                                 ก่อน                            </span>
+                        </span>
+                        <span class="forum-post-item-who" >
+                            <span class="forum-post-item-who-data">
+                                <a href="/forum/user/aussawin"
+                                   class="forum-user-link" target="_blank">
+                                    aussawin                                </a>
+                            </span>
+                        </span>
+                </div>
+                <div class="clear"></div>
+                    <span class="forum-post-item-title">
+                        <a href="/forum/45230" target="_blank">
+                            <span title="
+	มีทาวน์โฮม 3 ชั้น กำลังสร้างใหม่ กลางเมืองระยอง อยู่ห่างจาก แหลมทอง ไม่เกิน 3 km&nbsp;
+
+	แต่ทางเข้าลึกจากถนนหลัก ประมาณ 200 เมตร &nbsp;
+
+	เลี้ยวเข้ามาในซอยจะมีสองข้างทาง ข้างทางขวา จะมีโครงการบ้านจัดสรร&nbsp;
+
+	ข้างทางขวา จะเป็นสวนยางพารา &nbsp;การเดินทางต้องใช้รถส่วนตัวเท่านั้น
+
+	ราคา 2 ล้าน &nbsp;จอดรถ 2 คัน เนื้อที่ 20 ตารางวา พท.ใช้สอย 165 ตร.ม.
+
+	
+
+	โดยส่วนตัว อยากสอบถามว่า ราคาแพงหรือเปล่าครับ &nbsp;สามารถขายต่อได้ยากหรือเปล่าครับ ถ้าทำเลมันกลางเมือง แต่ว่า
+
+	ต้องอยู่ในซอย แถมตรงข้ามกับสวนยางด้วยครับ &nbsp;ปวดหัวมากๆเลย ช่วยคิดหน่อยนะครับ&nbsp;
+
+	ถ้าจะซื้อคอนโด ก็ราคาประมาณ 1.5 m.+ ครับ แต่ก็ต้องใช้รถยนต์ส่วนตัวอยู่ดี เพราะระยอง มันระบบรถสาธารณะ
+
+	ไม่ดีเท่าที่ กทม.ครับ ไม่มีรถไฟฟ้า&nbsp;">
+                               ช่วยวิเคราะห์ Escape townhome ระยอง                            </span>
+                        </a>
+                    </span>
+            </div><!-- forum-post-item-main -->            <div class="forum-post-item-clear"></div>
+        </div><!-- forum-post-list-item -->            <div class='forum-post-footer'>
+                <div class='forum-post-footer-links'>
+                    <a id='forum-all-post-link' target="_blank"
+                       href="/forum">
+                        ดูกระทู้ทั้งหมด
+                    </a>
+                </div>
+                <div class="forum-post-item-clear"></div>
+            </div>
+        </div><!--forum-post-list-->
+
+    </div><div id="bannerwidget-56" class="widget BannerWidget"> 	<span class='rand-single-ads' rand-group='5dfa55ce-9356-4197-af32-f1b1d2d037e2' rand-item-index='1' style='display:none;'>
+								
+			<a href='http://thinkofliving.com/2014/09/20/pov-private-nirvana/' target='_blank' rel='nofollow'>
+				<img title='Private nirvana BR3R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/IMG_1138-banner.jpg' 
+					alt='Private nirvana BR3R(M)'
+					width='400' 
+					height='250'
+					track-view='edf9ee6e-8644-4ef4-8876-c9f66a8bcd85' 
+					track-img-click='edf9ee6e-8644-4ef4-8876-c9f66a8bcd85'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/IMG_1138-banner.jpg'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5dfa55ce-9356-4197-af32-f1b1d2d037e2' rand-item-index='2' style='display:none;'>
+								
+			<a href='http://pausecondo.com/' target='_blank' rel='nofollow'>
+				<img title='Origin BR4-2R'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/think-of-living1.gif' 
+					alt='Origin BR4-2R'
+					width='400' 
+					height='250'
+					track-view='e1e8087b-95eb-4a2e-a4de-72e5ddb71787' 
+					track-img-click='e1e8087b-95eb-4a2e-a4de-72e5ddb71787'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/think-of-living1.gif'
+					/>
+			</a>
+			
+							</span> 	<span class='rand-single-ads' rand-group='5dfa55ce-9356-4197-af32-f1b1d2d037e2' rand-item-index='3' style='display:none;'>
+								
+			<a href='http://bit.ly/ThinkofLivingC1' target='_blank' rel='nofollow'>
+				<img title='Fragrant BR3R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/01/Banner-C1.jpg' 
+					alt='Fragrant BR3R(M)'
+					width='400' 
+					height='250'
+					track-view='513fccb6-cd18-4b62-8272-2fbf352fa0a6' 
+					track-img-click='513fccb6-cd18-4b62-8272-2fbf352fa0a6'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/01/Banner-C1.jpg'
+					/>
+			</a>
+			
+							</span></div><div id="widget-promotion-3" class="widget tol">        <div id="promotion-widget" data-count="4">
+        </div><!--promotion-widget-->
+        <script id="promotion-template" type="text/x-handlebars-template">
+            <h2 class="title"><a href='http://thinkofliving.com/store/' title='Store' class='' target='_blank' rel='' >Store</a></h2>
+            {{#each data}}
+            <div class="promotion-banner" promo-widget="{{{ID}}}">
+                <div class="thumb">{{{Thumbnail}}}
+                </div><!--thumb-->
+                <div class="display-text">{{{PromotionDisplayLink}}}</div>
+                <div class="function-details">{{{FunctionDetail}}}</div>
+                <div class="promotion-price">{{{Price}}}</div>
+                <div class="original-price">{{{OriginalPrice}}}</div>
+                <div class="clear"></div>
+                <div class="description">{{{Description}}}</div>
+            </div>
+            {{/each}}
+            <div class="clear"></div>
+            <a href='http://thinkofliving.com/store/' title='ชมสินค้าทั้งหมด (19)' class='promotion-link-button' target='_blank' rel='' >ชมสินค้าทั้งหมด (19)</a>        </script></div><div id="bwp_recent_comments-4" class="widget bwp-rc-widget"><h3 class="title">ความคิดเห็นล่าสุด</h3>
+		<ul class="bwp-rc-ulist">
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2011/12/16/the-energy-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%ab%e0%b8%b4%e0%b8%99-2/#comment-264921" title="Comment on The Energy หัวหิน คอนโดตากอากาศ ค่าส่วนกลางเก็บปีเดียว โดย บ้านราชประสงค์ [รีวิวฉบับที่ 56]" target="_blank">64</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2011/12/16/the-energy-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%ab%e0%b8%b4%e0%b8%99-2/ " rel="bookmark" title="The Energy หัวหิน คอนโดตากอากาศ ค่าส่วนกลางเก็บปีเดียว โดย บ้านราชประสงค์ [รีวิวฉบับที่ 56]" target="_blank">The Energy หัวหิน คอนโดตากอากาศ ค่าส่วนกลางเก็บปีเดียว โดย บ้านราชประสงค์ [รีวิวฉบับที่ 56]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">Hatyaiman</span>
+<div class="comment-text"> โครงการระบุในสัญญาว่า. จะโอนภายใน. ธค. 2557. หากล่าช้า. จะมีการบอกกล่าว.... </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2013/08/16/passorn-pattanakarn-38-review/#comment-264917" title="Comment on ภัสสร เพรสทิจ พัฒนาการ 38 บ้านเดี่ยวใจกลางเมืองบนถนนพัฒนาการ ใกล้ทางด่วน จาก พฤกษา [รีวิวฉบับที่ 407]" target="_blank">18</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2013/08/16/passorn-pattanakarn-38-review/ " rel="bookmark" title="ภัสสร เพรสทิจ พัฒนาการ 38 บ้านเดี่ยวใจกลางเมืองบนถนนพัฒนาการ ใกล้ทางด่วน จาก พฤกษา [รีวิวฉบับที่ 407]" target="_blank">ภัสสร เพรสทิจ พัฒนาการ 38 บ้านเดี่ยวใจกลางเมืองบนถนนพัฒนาการ ใกล้ทางด่วน จาก พฤกษา [รีวิวฉบับที่ 407]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">Guest</span>
+<div class="comment-text"> อีกหน่อยถนนดีและเชื่อมต่อถนนหลัก รถเยอะแน่ครับ แล้วเงินน้อยนิดที่คุณว่าจะพอซ่อมรึเปล่า </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2015/02/20/centric-tiwanon-station/#comment-264906" title="Comment on Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]" target="_blank">13</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2015/02/20/centric-tiwanon-station/ " rel="bookmark" title="Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]" target="_blank">Centric Tiwanon Station คอนโด High Rise 41 ชั้น ใกล้รถไฟฟ้าสถานีแยกติวานนท์ จาก SC ASSET [รีวิวฉบับที่ 772]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">araya</span>
+<div class="comment-text"> 42เปอเซนต์ ไม่รวมจอดซ้อนคัน น่าจะมาตรฐาน ไล่อ่านคอนโดรุ่นใหม่แทบทั้งหมด แทบไม่มีคอนโดระดับกลางอันไหน ที่จอด... </div></li>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">Niwat</span>
+<div class="comment-text"> ที่จอดรถน้อยคะแนนส่วนกลางก็ควรน้อยครับ </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2014/07/28/voque-place-review/#comment-264894" title="Comment on VOQUE PLACE คอนโด Low Rise ในซอยแบริ่ง2 จาก โว้ค พร็อพเพอร์ตี้ [รีวิวฉบับที่ 635]" target="_blank">13</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2014/07/28/voque-place-review/ " rel="bookmark" title="VOQUE PLACE คอนโด Low Rise ในซอยแบริ่ง2 จาก โว้ค พร็อพเพอร์ตี้ [รีวิวฉบับที่ 635]" target="_blank">VOQUE PLACE คอนโด Low Rise ในซอยแบริ่ง2 จาก โว้ค พร็อพเพอร์ตี้ [รีวิวฉบับที่ 635]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">Netiwit</span>
+<div class="comment-text"> จองตอนนี้ แต่งครบรึเปล่าครับ เห็นหน้า sale office เขียนว่า... </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2012/12/02/supalai-lite-review/#comment-264813" title="Comment on ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ คอนโดตึกสูงใกล้ทางด่วนถนนจันทน์ จากศุภาลัย [รีวิวฉบับที่ 272]" target="_blank">25</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2012/12/02/supalai-lite-review/ " rel="bookmark" title="ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ คอนโดตึกสูงใกล้ทางด่วนถนนจันทน์ จากศุภาลัย [รีวิวฉบับที่ 272]" target="_blank">ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ คอนโดตึกสูงใกล้ทางด่วนถนนจันทน์ จากศุภาลัย [รีวิวฉบับที่ 272]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">ฉัตร</span>
+<div class="comment-text"> ต้องการขายดาว ห้องขนาด 50ตรม สนใจติดต่อ ได้นะคะ 0840830820 </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2015/02/25/m-%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a7-review/#comment-264750" title="Comment on M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]" target="_blank">1</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2015/02/25/m-%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a7-review/ " rel="bookmark" title="M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]" target="_blank">M ลาดพร้าว คอนโด High Rise 44 ชั้น ใกล้ MRT พหลโยธิน จาก Major Development [รีวิวฉบับที่ 775]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">hellxingi</span>
+<div class="comment-text"> ทำเลนี้กับราคา 160k ได้คะแนนเยอะไปมั้ยครับ 8.75 ถ้าซัก 130k... </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2013/12/27/u-delight-residence-river-front-%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%b2%e0%b8%a1-3/#comment-264716" title="Comment on U Delight Residence Riverfront พระราม 3 คอนโดตึกสูงริมน้ำเจ้าพระยาจาก Grand U [รีวิวฉบับที่ 498]" target="_blank">49</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2013/12/27/u-delight-residence-river-front-%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%b2%e0%b8%a1-3/ " rel="bookmark" title="U Delight Residence Riverfront พระราม 3 คอนโดตึกสูงริมน้ำเจ้าพระยาจาก Grand U [รีวิวฉบับที่ 498]" target="_blank">U Delight Residence Riverfront พระราม 3 คอนโดตึกสูงริมน้ำเจ้าพระยาจาก Grand U [รีวิวฉบับที่ 498]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">สงสัย</span>
+<div class="comment-text"> สรุปว่าโครงการให้เฟอร์นิเจอร์มาแค่ไหนกันแน่ ในรีวิวบอกให้หมดทั้ง build in และลอยตัว แต่ถามเซลล์ที่โครงการบอกให้เฉพาะ... </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2015/02/25/the-gallery-house-layer/#comment-264650" title="Comment on The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]" target="_blank">1</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2015/02/25/the-gallery-house-layer/ " rel="bookmark" title="The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]" target="_blank">The Gallery House Layer บ้านเดี่ยวในซอยลาดพร้าว 1 แยก 31 จาก G Land Property [รีวิวฉบับที่ 774]</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">SNC</span>
+<div class="comment-text"> แบบบ้านคุ้นๆ ไม่แน่ใจว่าใช่หมู่บ้านที่คุณพจน์ อานนท์ อยู่หรือเปล่า </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2015/02/19/cmc-group-%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1/#comment-264608" title="Comment on CMC Group ส่งรักยิ้ม" target="_blank">7</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2015/02/19/cmc-group-%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1/ " rel="bookmark" title="CMC Group ส่งรักยิ้ม" target="_blank">CMC Group ส่งรักยิ้ม</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img
+                src='/wp-content/themes/thinkoflivingnews/images/mystery-avartar.png'
+                class='avatar avatar-50 photo''
+                height='50' width='50'></span>
+<span class="recent-author">aptkka</span>
+<div class="comment-text"> ไปดูโครงการที่กำลังก่อสร้างที่ซอย รัชดา 19 ทำเลดีนะ แต่เห็นงานแล้วซื้อไม่ลงจริงๆ งานแย่กว่า... </div></li>
+</ul></div></li>
+<li class='single-column-post-list' style="width: 400px;padding: 0 4px 0 0">
+ <span class="post-comments" style="margin: 0 4px 0 0">
+   <a href="http://thinkofliving.com/2015/02/11/ashton-%e0%b8%88%e0%b8%b8%e0%b8%ac%e0%b8%b2-%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1-%e0%b8%97%e0%b8%b3%e0%b9%80%e0%b8%a5/#comment-264399" title="Comment on Ashton จุฬา - สีลม พาชมทำเลคอนโดใหม่ ใกล้ MRT สามย่าน จาก Ananda Development" target="_blank">11</a>
+</span>
+<span class="title">
+    <a href="http://thinkofliving.com/2015/02/11/ashton-%e0%b8%88%e0%b8%b8%e0%b8%ac%e0%b8%b2-%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1-%e0%b8%97%e0%b8%b3%e0%b9%80%e0%b8%a5/ " rel="bookmark" title="Ashton จุฬา - สีลม พาชมทำเลคอนโดใหม่ ใกล้ MRT สามย่าน จาก Ananda Development" target="_blank">Ashton จุฬา - สีลม พาชมทำเลคอนโดใหม่ ใกล้ MRT สามย่าน จาก Ananda Development</a>
+ </span>
+<div class='comments' style="margin: 4px 0 8px 0">
+<ul>
+<li class="latest-comment" style="width: 380px">
+<span class='avatar'><img src="http://thinkofliving.com/wp-content/uploads/upme/cropped-1423473599_10513336_797208216985449_2365455940863755380_n.jpg" alt="" width="50" height="50" class="avatar avatar-50 photo"></span>
+<span class="recent-author">MAI</span>
+<div class="comment-text"> หากจะเข้ามาอ่านบทความ สามารถพิมชื่อโครงการที่ช่อง >>ค้นหาโครงการ ได้เลยค่ะ หรือสามารถไปเลือกดูที่หมวดหมู่ได้เลย เช่น... </div></li>
+</ul></div></li>
+		</ul>
+</div><div id="bannerwidget-57" class="widget BannerWidget">	<div class='vertical-ads'>
+										
+			<a href='http://nottinghillcondo.origin.co.th/nottinghill-tiwanon/project.html' target='_blank' rel='nofollow'>
+				<img title='Origin BR4-1R'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/26-02-58.gif' 
+					alt='Origin BR4-1R'
+					width='400' 
+					height='250'
+					track-view='55b34a9a-3313-408a-9901-f597249a74d9' 
+					track-img-click='55b34a9a-3313-408a-9901-f597249a74d9'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/26-02-58.gif'
+					/>
+			</a>
+			
+									</div>	<div class='vertical-ads'>
+										
+			<a href='http://www.origin.co.th/TH/readytomovein.php' target='_blank' rel='nofollow'>
+				<img title='The Cabana BR3R(M)'
+					src='http://thinkofliving.com/wp-content/uploads/2015/02/unnamed1.jpg' 
+					alt='The Cabana BR3R(M)'
+					width='400' 
+					height='250'
+					track-view='fa9382e8-6fe5-4c25-9c22-d099456376cf' 
+					track-img-click='fa9382e8-6fe5-4c25-9c22-d099456376cf'
+					media-source='http://thinkofliving.com/wp-content/uploads/2015/02/unnamed1.jpg'
+					/>
+			</a>
+			
+									</div></div><div id="bannerwidget-58" class="widget BannerWidget"></div><div id="bannerwidget-59" class="widget BannerWidget"></div><div id="bannerwidget-60" class="widget BannerWidget"></div></div> <!-- end sidebar -->
+    <div class="clear"></div>
+</div> <!-- /#content -->		</div> <!-- /#inner-wrap -->
+	</div> <!-- /#wrapper -->
+    <div class="clear"></div>
+    <div id="footer">
+        <div id="wrapFooter">
+            <div class="innerFooter">
+                <div class="topFooter">
+                    <div class="left">
+                        <div class="logo">
+                            <a href="http://thinkofliving.com" title="แบ่งปันความรู้เรื่องบ้านและคอนโด" target="_blank">
+                                <img src="/wp-content/themes/thinkoflivingnews/images/logo-footer.jpg"
+                                     alt="ThinkOfLiving.COM">
+                            </a>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="job">                                <a href="http://thinkofliving.com/jobs/" title="job" target="_blank">
+                                    <img src="/wp-content/themes/thinkoflivingnews/images/job.jpg" alt="job">
+                                </a>
+                                                    </div>
+                    </div>
+                    <div class="left">
+                    <div class='tol_instagram_footer'>
+                                            </div>
+                    <div class="clear"></div>
+                    <div class="navFooter">
+                        
+        <h3>Developer</h3>
+        <ul class="items">
+                                    <li>
+                <a class="active"
+                    href="http://thinkofliving.com/category/company/ananda/"
+                    title="Ananda (อนันดา)" >Ananda (อนันดา)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/ap/"
+                    title="AP (Thailand)" >AP (Thailand)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/cmc/"
+                    title="CMC (เจ้าพระยามหานคร)" >CMC (เจ้าพระยามหานคร)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/eastern-star/"
+                    title="Eastern Star" >Eastern Star</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/golden-land/"
+                    title="Golden Land" >Golden Land</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/u-delight/"
+                    title="Grand U" >Grand U</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/lh/"
+                    title="Land & Houses" >Land & Houses</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/ลลิล/"
+                    title="Lalin Property (ลลิลฯ)" >Lalin Property (ลลิลฯ)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/lpn-ลุมพินี/"
+                    title="LPN" >LPN</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/major-development/"
+                    title="Major Development" >Major Development</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/นารายณ์-พร๊อพเพอร์ตี้/"
+                    title="Narai Property (นารายณ์)" >Narai Property (นารายณ์)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/noble/"
+                    title="Noble Development" >Noble Development</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/origin-property-company/"
+                    title="Origin Property" >Origin Property</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/pf/"
+                    title="Property Perfect" >Property Perfect</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/prin/"
+                    title="Prinsiri (ปริญสิริ)" >Prinsiri (ปริญสิริ)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/ps/"
+                    title="Pruksa (พฤกษา)" >Pruksa (พฤกษา)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/qh/"
+                    title="Q.House" >Q.House</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/raimon/"
+                    title="Raimon Land" >Raimon Land</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/sc/"
+                    title="SC Asset" >SC Asset</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/sena/"
+                    title="Sena (เสนาฯ)" >Sena (เสนาฯ)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/siri/"
+                    title="Sansiri (แสนสิริ)" >Sansiri (แสนสิริ)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/company/spali/"
+                    title="Supalai (ศุภาลัย)" >Supalai (ศุภาลัย)</a>
+            </li>
+
+                    </ul>
+        <div class="clear"></div>
+
+                        </div>
+                    <div class="navFooter">
+                        
+        <h3>ระดับราคา</h3>
+        <ul class="items">
+                                    <li>
+                <a class="active"
+                    href="http://thinkofliving.com/category/ระดับราคา/0-1-ล้าน/"
+                    title="ต่ำกว่า 1 ล้านบาท" >ต่ำกว่า 1 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/1-2-ล้าน/"
+                    title="1 - 2 ล้านบาท" >1 - 2 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/2-3-ล้าน/"
+                    title="2 - 3 ล้านบาท" >2 - 3 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/3-5-ล้าน/"
+                    title="3 - 5 ล้านบาท" >3 - 5 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/5-7-ล้าน/"
+                    title="5 - 7 ล้านบาท" >5 - 7 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/7-10-ล้าน/"
+                    title="7 - 10 ล้านบาท" >7 - 10 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/10-15-ล้าน/"
+                    title="10 - 15 ล้านบาท" >10 - 15 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/15-30-ล้าน/"
+                    title="15 - 30 ล้านบาท" >15 - 30 ล้านบาท</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/ระดับราคา/30-ล้านขึ้นไป/"
+                    title="30 ล้านบาท ขึ้นไป" >30 ล้านบาท ขึ้นไป</a>
+            </li>
+
+                    </ul>
+        <div class="clear"></div>
+
+    
+        <h3>Contact</h3>
+        <ul class="items">
+                                    <li>
+                <a class="active"
+                    href="http://thinkofliving.com/advertising/"
+                    title="รายละเอียดโฆษณา" >รายละเอียดโฆษณา</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/contact/"
+                    title="ติดต่อทีมงาน" >ติดต่อทีมงาน</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://facebook.com/thinkofliving"
+                    title="หน้า Facebook Fanpage" >หน้า Facebook Fanpage</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://youtube.com/thinkofliving"
+                    title="YouTube คิด.เรื่อง.อยู่" >YouTube คิด.เรื่อง.อยู่</a>
+            </li>
+
+                    </ul>
+        <div class="clear"></div>
+
+                        </div>
+                    <div class="navFooter">
+                        
+        <h3>คอลัมน์น่าอ่าน</h3>
+        <ul class="items">
+                                    <li>
+                <a class="active"
+                    href="http://thinkofliving.com/category/column/อยู่สบาย-ในแนวราบ/"
+                    title="อยู่สบายในแนวราบ" >อยู่สบายในแนวราบ</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/magnolia-column/"
+                    title="นวัตกรรมเพื่อบ้านแห่งความสุข" >นวัตกรรมเพื่อบ้านแห่งความสุข</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/ทาวน์โฮม-ชีวิตแห่งความค/"
+                    title="ทาวน์โฮม ชีวิตแห่งความคุ้มค่า" >ทาวน์โฮม ชีวิตแห่งความคุ้มค่า</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/ไอเดียแต่งบ้าน/"
+                    title="10 ไอเดียแต่งบ้าน" >10 ไอเดียแต่งบ้าน</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/kitchen/"
+                    title="เจาะลึกเครื่องครัว" >เจาะลึกเครื่องครัว</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/ร้อยแต่งพันสไตล์/"
+                    title="ร้อยแต่งพันสไตล์" >ร้อยแต่งพันสไตล์</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/investment/"
+                    title="การลงทุนอสังหาฯเบื้องต้น" >การลงทุนอสังหาฯเบื้องต้น</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/สัมภาษณ์/"
+                    title="สัมภาษณ์ผู้บริหาร" >สัมภาษณ์ผู้บริหาร</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/column/รอบรู้เรื่องบ้านๆ/"
+                    title="รอบรู้เรื่องบ้านๆ" >รอบรู้เรื่องบ้านๆ</a>
+            </li>
+
+                    </ul>
+        <div class="clear"></div>
+
+                        </div>
+                    <div class="navFooter">
+                        
+        <h3>ประเภทกระทู้</h3>
+        <ul class="items">
+                                    <li>
+                <a class="active"
+                    href="http://thinkofliving.com/forum/tag/รีวิวจากทางบ้าน"
+                    title="รีวิวจากทางบ้าน" >รีวิวจากทางบ้าน</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/ปรึกษาเลือกซื้อ/"
+                    title="ปรึกษาเลือกซื้อ" >ปรึกษาเลือกซื้อ</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/แบ่งปันข้อมูล"
+                    title="แบ่งปันข้อมูล" >แบ่งปันข้อมูล</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/ระดมสมอง"
+                    title="ระดมสมอง" >ระดมสมอง</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/การลงทุน"
+                    title="การลงทุน" >การลงทุน</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/ข่าวสาร"
+                    title="ข่าวสาร" >ข่าวสาร</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/สัพเพเหระ"
+                    title="สัพเพเหระ" >สัพเพเหระ</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/forum/tag/ขอความรู้/"
+                    title="ขอความรู้" >ขอความรู้</a>
+            </li>
+
+                    </ul>
+        <div class="clear"></div>
+
+                        </div>
+                    <div class="navFooter">
+                        
+        <h3>Segment</h3>
+        <ul class="items">
+                                    <li>
+                <a class="active"
+                    href="http://thinkofliving.com/category/condo-class/1-super-economy/"
+                    title="Super Economy (ต่ำกว่า 45,000 บาท / ตรม.)" >Super Economy (ต่ำกว่า 45,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/2-economy/"
+                    title="Economy (45,000 - 60,000 บาท / ตรม.)" >Economy (45,000 - 60,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/3-main-class/"
+                    title="Main Class (60,000 - 80,000 บาท / ตรม.)" >Main Class (60,000 - 80,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/4-upper-class/"
+                    title="Upper Class (80,000 - 100,000 บาท / ตรม.)" >Upper Class (80,000 - 100,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/5-high-class/"
+                    title="High Class (100,000 - 130,000 บาท / ตรม.)" >High Class (100,000 - 130,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/6-luxury/"
+                    title="Luxury (130,000 - 160,000 บาท / ตรม.)" >Luxury (130,000 - 160,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/7-super-luxury/"
+                    title="Super Luxury (160,000 - 200,000 บาท / ตรม.)" >Super Luxury (160,000 - 200,000 บาท / ตรม.)</a>
+            </li>
+
+                                    <li>
+                <a class=""
+                    href="http://thinkofliving.com/category/condo-class/8-ultimate/"
+                    title="Ultimate (200,000 บาท / ตรม. ขึ้นไป)" >Ultimate (200,000 บาท / ตรม. ขึ้นไป)</a>
+            </li>
+
+                    </ul>
+        <div class="clear"></div>
+
+                        </div>
+                    <div class="navFooter">
+                                            </div>
+                </div>
+                </div><!-- topFooter -->
+                <div class="bottomFooter">
+                    <div class="copyRight left">© สงวนลิขสิทธิ์ 2557 <a href="http://thinkofliving.com/" >ThinkOfLiving.COM</a></div>
+                    <div class="social right">
+                        <ul>
+                            <li class="fb" title="Facebook"><a href="http://www.facebook.com/thinkofliving" target="_blank" title="Facebook">
+                                <img src="/wp-content/themes/thinkoflivingnews/images/ico-fb.png"></a></li>
+
+                            <li class="youtube" title="Youtube">
+                                <a href="http://youtube.com/thinkofliving/" target="_blank" title="Youtube">
+                                    <img src="/wp-content/themes/thinkoflivingnews/images/ico-youtube.png"></a></li>
+
+                            <li class="gplus" title="Google+"><a href="https://plus.google.com/113299131848711964437" target="_blank" title="Google+">
+                                    <img src="/wp-content/themes/thinkoflivingnews/images/social.png"></a></li>
+
+                            <li class="last contact" title="Contact" >
+                                <a href="/contact" title="Contact" target="_blank">
+                                    <img src="/wp-content/themes/thinkoflivingnews/images/ico-contact.png"></a></li>
+                        </ul>
+                    </div>
+                    <div class="dropdown right">
+                        <ul id="menu-about-us-advertisement" class=""><li id="menu-item-47638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47638"><a title="รายละเอียดโฆษณา" href="http://thinkofliving.com/advertising/">รายละเอียดโฆษณา</a></li>
+<li id="menu-item-48642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48642"><a href="http://thinkofliving.com/contact/">ติดต่อทีมงาน</a></li>
+</ul>                    </div>
+                </div><!-- bottomFooter -->
+            </div><!-- innerFooter -->
+        </div>
+    </div>
+
+	
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    
+
+                    <script type="text/javascript" src="/wp-content/themes/thinkoflivingnews/js/jquery.flexslider-min.js"></script>
+                <script>(function($){$(document).ready(function(){});})(jQuery);</script><link rel='stylesheet' id='promotion-style-css'  href='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/css/promotion.css?ver=6.2.10' type='text/css' media='all' />
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/thinkofliving.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/js/tools.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/js/dropdown.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/js/tooltip.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/js/util.js?ver=4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/js/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/js/t.js?ver=6.2.10'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/js/ads_manager.js?ver=6.2.10'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/functions/wpzoom/assets/js/galleria.js'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/tribune/functions/wpzoom/assets/js/wzslider.js'></script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/js/handlebars.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UPMECustom = {"ViewProfile":"View Profile","EditProfile":"Edit Profile","UPMEUrl":"\/wp-content\/themes\/thinkoflivingnews\/functions\/external\/upme\/","ForgotPass":"Forgot Password","Login":"Login","Messages":{"EnterDetails":"Please enter your username or email to reset password.","EnterEmail":"Please enter your email address.","ValidEmail":"Please enter valid username or email address.","NotAllowed":"Password changes are not allowed for this user.","EmailError":"We are unable to deliver email to your email address. Please contact site admin.","PasswordSent":"We have sent a password reset link to your email address.","WentWrong":"Something went wrong, please try again","RegExistEmail":"Email is already registered.","RegValidEmail":"Email is available","RegInvalidEmail":"Invalid email.","RegEmptyEmail":"Email is empty.","RegExistUsername":"Username is already registered.","RegValidUsername":"Username is available.","RegEmptyUsername":"Username is empty.","RegInValidUsername":"Invalid username.","DelPromptMessage":"Are you sure you want to delete this image?"},"AdminAjax":"http:\/\/thinkofliving.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thinkofliving.com/wp-content/themes/thinkoflivingnews/functions/external/upme/js/upme-custom.js?ver=4.1'></script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.930 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-02-26 08:35:01 -->
+
+<!-- super cache -->
